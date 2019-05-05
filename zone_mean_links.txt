@@ -1,0 +1,7 @@
+Northeast mean links: 3.125
+West mean links: 8.92774566474
+Southeast mean links: 3.4537037037
+Antarctica mean links: 3.25
+Northwest mean links: 9.2206405694
+East mean links: 6.73762376238
+Southwest mean links: 7.13138686131

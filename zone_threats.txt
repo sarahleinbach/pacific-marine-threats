@@ -1,0 +1,294 @@
+Northeast:
+	housing and urban areas: 1
+	commercial and industrial areas: 3
+	tourism and recreation areas: 3
+	dams and water management/use: 0
+	other ecosystem modifications: 0
+	other threats: 1
+	fire and fire suppression: 1
+	work and other activities: 2
+	war civil unrest and military exercises: 0
+	recreational activities: 3
+	oil and gas drilling: 2
+	livestock farming and ranching: 0
+	wood and pulp plantations: 0
+	annual and perennial nontimber crops: 0
+	marine and freshwater aquaculture: 0
+	invasive non native/alien species/diseases: 2
+	hunting and trapping terrestrial animals: 1
+	introduced genetic material: 0
+	problematic native species/diseases: 3
+	fishing and harvesting aquatic resources: 23
+	problematic species/disease of unknown origin: 0
+	shipping lanes: 6
+	storms and flooding: 2
+	other climate change and severe weather impacts: 0
+	habitat shifting and alteration: 6
+	droughts: 0
+	temperature extremes: 2
+	garbage and solid waste: 2
+	airborne pollutants: 0
+	excess energy: 3
+	roads and railroads: 0
+	domestic and urban waste water: 0
+	industrial and military effluents: 5
+	agricultural and forestry effluents: 2
+	volcanoes: 0
+	flight paths: 1
+	earthquakes/tsunamis: 0
+	viral/prion induced diseases: 1
+	logging and wood harvesting: 0
+	mining and quarrying: 0
+	renewable energy: 0
+West:
+	housing and urban areas: 214
+	commercial and industrial areas: 214
+	tourism and recreation areas: 207
+	dams and water management/use: 7
+	other ecosystem modifications: 9
+	other threats: 0
+	fire and fire suppression: 0
+	work and other activities: 8
+	war civil unrest and military exercises: 1
+	recreational activities: 200
+	oil and gas drilling: 6
+	livestock farming and ranching: 0
+	wood and pulp plantations: 2
+	annual and perennial nontimber crops: 3
+	marine and freshwater aquaculture: 7
+	invasive non native/alien species/diseases: 191
+	hunting and trapping terrestrial animals: 1
+	introduced genetic material: 0
+	problematic native species/diseases: 194
+	fishing and harvesting aquatic resources: 330
+	problematic species/disease of unknown origin: 1
+	shipping lanes: 203
+	storms and flooding: 198
+	other climate change and severe weather impacts: 6
+	habitat shifting and alteration: 22
+	droughts: 0
+	temperature extremes: 204
+	garbage and solid waste: 3
+	airborne pollutants: 191
+	excess energy: 6
+	roads and railroads: 2
+	domestic and urban waste water: 213
+	industrial and military effluents: 211
+	agricultural and forestry effluents: 213
+	volcanoes: 0
+	flight paths: 0
+	earthquakes/tsunamis: 0
+	viral/prion induced diseases: 1
+	logging and wood harvesting: 8
+	mining and quarrying: 11
+	renewable energy: 2
+Southeast:
+	housing and urban areas: 20
+	commercial and industrial areas: 20
+	tourism and recreation areas: 22
+	dams and water management/use: 1
+	other ecosystem modifications: 1
+	other threats: 0
+	fire and fire suppression: 0
+	work and other activities: 3
+	war civil unrest and military exercises: 0
+	recreational activities: 16
+	oil and gas drilling: 2
+	livestock farming and ranching: 0
+	wood and pulp plantations: 0
+	annual and perennial nontimber crops: 0
+	marine and freshwater aquaculture: 2
+	invasive non native/alien species/diseases: 13
+	hunting and trapping terrestrial animals: 2
+	introduced genetic material: 0
+	problematic native species/diseases: 12
+	fishing and harvesting aquatic resources: 62
+	problematic species/disease of unknown origin: 0
+	shipping lanes: 14
+	storms and flooding: 14
+	other climate change and severe weather impacts: 5
+	habitat shifting and alteration: 40
+	droughts: 0
+	temperature extremes: 55
+	garbage and solid waste: 6
+	airborne pollutants: 9
+	excess energy: 4
+	roads and railroads: 1
+	domestic and urban waste water: 16
+	industrial and military effluents: 16
+	agricultural and forestry effluents: 12
+	volcanoes: 0
+	flight paths: 0
+	earthquakes/tsunamis: 0
+	viral/prion induced diseases: 1
+	logging and wood harvesting: 2
+	mining and quarrying: 2
+	renewable energy: 0
+Antarctica:
+	housing and urban areas: 0
+	commercial and industrial areas: 0
+	tourism and recreation areas: 0
+	dams and water management/use: 0
+	other ecosystem modifications: 0
+	other threats: 0
+	fire and fire suppression: 0
+	work and other activities: 0
+	war civil unrest and military exercises: 0
+	recreational activities: 0
+	oil and gas drilling: 0
+	livestock farming and ranching: 0
+	wood and pulp plantations: 0
+	annual and perennial nontimber crops: 0
+	marine and freshwater aquaculture: 0
+	invasive non native/alien species/diseases: 0
+	hunting and trapping terrestrial animals: 0
+	introduced genetic material: 0
+	problematic native species/diseases: 1
+	fishing and harvesting aquatic resources: 4
+	problematic species/disease of unknown origin: 0
+	shipping lanes: 3
+	storms and flooding: 0
+	other climate change and severe weather impacts: 0
+	habitat shifting and alteration: 1
+	droughts: 0
+	temperature extremes: 0
+	garbage and solid waste: 1
+	airborne pollutants: 0
+	excess energy: 1
+	roads and railroads: 0
+	domestic and urban waste water: 0
+	industrial and military effluents: 1
+	agricultural and forestry effluents: 1
+	volcanoes: 0
+	flight paths: 0
+	earthquakes/tsunamis: 0
+	viral/prion induced diseases: 0
+	logging and wood harvesting: 0
+	mining and quarrying: 0
+	renewable energy: 0
+Northwest:
+	housing and urban areas: 169
+	commercial and industrial areas: 175
+	tourism and recreation areas: 171
+	dams and water management/use: 9
+	other ecosystem modifications: 6
+	other threats: 1
+	fire and fire suppression: 2
+	work and other activities: 5
+	war civil unrest and military exercises: 3
+	recreational activities: 171
+	oil and gas drilling: 7
+	livestock farming and ranching: 1
+	wood and pulp plantations: 1
+	annual and perennial nontimber crops: 3
+	marine and freshwater aquaculture: 4
+	invasive non native/alien species/diseases: 164
+	hunting and trapping terrestrial animals: 2
+	introduced genetic material: 2
+	problematic native species/diseases: 168
+	fishing and harvesting aquatic resources: 277
+	problematic species/disease of unknown origin: 1
+	shipping lanes: 172
+	storms and flooding: 166
+	other climate change and severe weather impacts: 3
+	habitat shifting and alteration: 20
+	droughts: 2
+	temperature extremes: 167
+	garbage and solid waste: 5
+	airborne pollutants: 159
+	excess energy: 6
+	roads and railroads: 1
+	domestic and urban waste water: 176
+	industrial and military effluents: 178
+	agricultural and forestry effluents: 179
+	volcanoes: 1
+	flight paths: 1
+	earthquakes/tsunamis: 0
+	viral/prion induced diseases: 2
+	logging and wood harvesting: 6
+	mining and quarrying: 3
+	renewable energy: 2
+East:
+	housing and urban areas: 91
+	commercial and industrial areas: 92
+	tourism and recreation areas: 92
+	dams and water management/use: 6
+	other ecosystem modifications: 2
+	other threats: 0
+	fire and fire suppression: 0
+	work and other activities: 5
+	war civil unrest and military exercises: 2
+	recreational activities: 84
+	oil and gas drilling: 2
+	livestock farming and ranching: 0
+	wood and pulp plantations: 0
+	annual and perennial nontimber crops: 0
+	marine and freshwater aquaculture: 4
+	invasive non native/alien species/diseases: 77
+	hunting and trapping terrestrial animals: 1
+	introduced genetic material: 0
+	problematic native species/diseases: 78
+	fishing and harvesting aquatic resources: 146
+	problematic species/disease of unknown origin: 1
+	shipping lanes: 80
+	storms and flooding: 77
+	other climate change and severe weather impacts: 3
+	habitat shifting and alteration: 53
+	droughts: 0
+	temperature extremes: 125
+	garbage and solid waste: 4
+	airborne pollutants: 72
+	excess energy: 3
+	roads and railroads: 2
+	domestic and urban waste water: 89
+	industrial and military effluents: 81
+	agricultural and forestry effluents: 81
+	volcanoes: 0
+	flight paths: 0
+	earthquakes/tsunamis: 0
+	viral/prion induced diseases: 2
+	logging and wood harvesting: 4
+	mining and quarrying: 2
+	renewable energy: 0
+Southwest:
+	housing and urban areas: 62
+	commercial and industrial areas: 64
+	tourism and recreation areas: 65
+	dams and water management/use: 3
+	other ecosystem modifications: 4
+	other threats: 0
+	fire and fire suppression: 0
+	work and other activities: 3
+	war civil unrest and military exercises: 1
+	recreational activities: 64
+	oil and gas drilling: 2
+	livestock farming and ranching: 0
+	wood and pulp plantations: 0
+	annual and perennial nontimber crops: 0
+	marine and freshwater aquaculture: 2
+	invasive non native/alien species/diseases: 58
+	hunting and trapping terrestrial animals: 1
+	introduced genetic material: 0
+	problematic native species/diseases: 62
+	fishing and harvesting aquatic resources: 133
+	problematic species/disease of unknown origin: 1
+	shipping lanes: 65
+	storms and flooding: 59
+	other climate change and severe weather impacts: 1
+	habitat shifting and alteration: 10
+	droughts: 1
+	temperature extremes: 62
+	garbage and solid waste: 3
+	airborne pollutants: 57
+	excess energy: 3
+	roads and railroads: 1
+	domestic and urban waste water: 61
+	industrial and military effluents: 61
+	agricultural and forestry effluents: 64
+	volcanoes: 0
+	flight paths: 0
+	earthquakes/tsunamis: 2
+	viral/prion induced diseases: 1
+	logging and wood harvesting: 1
+	mining and quarrying: 0
+	renewable energy: 0
