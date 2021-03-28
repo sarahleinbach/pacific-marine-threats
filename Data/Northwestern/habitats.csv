@@ -1,0 +1,1008 @@
+assessmentId,internalTaxonId,scientificName,code,name,majorImportance,season,suitability
+1604460,180238,Stichopus herrmanni,9.9,Marine Neritic - Seagrass (Submerged),,,Suitable
+1604460,180238,Stichopus herrmanni,9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,,,Suitable
+1604460,180238,Stichopus herrmanni,9.5,Marine Neritic - Subtidal Sandy-Mud,,,Suitable
+1604460,180238,Stichopus herrmanni,9.8,Marine Neritic - Coral Reef,,,Suitable
+1604460,180238,Stichopus herrmanni,9.8.4,Lagoon,,,Suitable
+1606648,180257,Holothuria scabra,9.4,Marine Neritic - Subtidal Sandy,,,Suitable
+1606648,180257,Holothuria scabra,9.5,Marine Neritic - Subtidal Sandy-Mud,,,Suitable
+1606648,180257,Holothuria scabra,9.6,Marine Neritic - Subtidal Muddy,,,Suitable
+1606648,180257,Holothuria scabra,9.10,Marine Neritic - Estuaries,,,Suitable
+1606648,180257,Holothuria scabra,9.8.1,Outer Reef Channel,,,Suitable
+1606648,180257,Holothuria scabra,9.8.2,Back Slope,,,Suitable
+1606648,180257,Holothuria scabra,9.8.4,Lagoon,,,Suitable
+1606648,180257,Holothuria scabra,9.9,Marine Neritic - Seagrass (Submerged),,,Suitable
+1606648,180257,Holothuria scabra,12.7,Marine Intertidal - Mangrove Submerged Roots,,,Suitable
+1606648,180257,Holothuria scabra,9.8,Marine Neritic - Coral Reef,,,Suitable
+1607822,180265,Actinopyga miliaris,9.8.1,Outer Reef Channel,,,Suitable
+1607822,180265,Actinopyga miliaris,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+1607822,180265,Actinopyga miliaris,10.1,Marine Oceanic - Epipelagic (0-200m),,,Suitable
+1607822,180265,Actinopyga miliaris,9.8.4,Lagoon,,,Suitable
+1607822,180265,Actinopyga miliaris,9.9,Marine Neritic - Seagrass (Submerged),,,Suitable
+1609567,180275,Holothuria lessoni,9.4,Marine Neritic - Subtidal Sandy,,,Suitable
+1609567,180275,Holothuria lessoni,9.5,Marine Neritic - Subtidal Sandy-Mud,,,Suitable
+1609567,180275,Holothuria lessoni,9.8.2,Back Slope,,,Suitable
+1609567,180275,Holothuria lessoni,9.8.4,Lagoon,,,Suitable
+1609567,180275,Holothuria lessoni,9.9,Marine Neritic - Seagrass (Submerged),,,Suitable
+1609567,180275,Holothuria lessoni,9.8,Marine Neritic - Coral Reef,,,Suitable
+1629389,180424,Apostichopus japonicus,9.9,Marine Neritic - Seagrass (Submerged),,,Suitable
+1636021,180481,Thelenota ananas,9.5,Marine Neritic - Subtidal Sandy-Mud,,,Suitable
+1636021,180481,Thelenota ananas,9.6,Marine Neritic - Subtidal Muddy,,,Suitable
+1636021,180481,Thelenota ananas,9.8.4,Lagoon,,,Suitable
+1636021,180481,Thelenota ananas,9.9,Marine Neritic - Seagrass (Submerged),,,Suitable
+1636021,180481,Thelenota ananas,9.8,Marine Neritic - Coral Reef,,,Suitable
+1636021,180481,Thelenota ananas,9.8.1,Outer Reef Channel,,,Suitable
+1636021,180481,Thelenota ananas,9.8.2,Back Slope,,,Suitable
+1636021,180481,Thelenota ananas,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+1636021,180481,Thelenota ananas,9.8.6,Inter-Reef Rubble Substrate,,,Suitable
+2108120,192521,Conus retifer,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Yes,,Suitable
+2108120,192521,Conus retifer,9.8.6,Inter-Reef Rubble Substrate,Yes,,Suitable
+2108120,192521,Conus retifer,9.8.5,Inter-Reef Soft Substrate,Yes,,Suitable
+2108120,192521,Conus retifer,9.8,Marine Neritic - Coral Reef,No,,Suitable
+3466788,132863,Acropora prostrata,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+3468128,132866,Montipora angulata,9.8.1,Outer Reef Channel,,,Marginal
+3468128,132866,Montipora angulata,9.8.2,Back Slope,,,Suitable
+3468128,132866,Montipora angulata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3468128,132866,Montipora angulata,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3468128,132866,Montipora angulata,9.8.4,Lagoon,,,Suitable
+3468654,132867,Acropora pectinatus,9.8.2,Back Slope,,,Suitable
+3468654,132867,Acropora pectinatus,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3470090,132870,Moseleya latistellata,9.8.2,Back Slope,,,Suitable
+3470090,132870,Moseleya latistellata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3470090,132870,Moseleya latistellata,9.8.4,Lagoon,,,Suitable
+3470903,132872,Favia vietnamensis,9.8.2,Back Slope,,,Suitable
+3470903,132872,Favia vietnamensis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3470903,132872,Favia vietnamensis,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3470903,132872,Favia vietnamensis,9.8.4,Lagoon,,,Suitable
+3475620,132882,Acropora japonica,9.8.2,Back Slope,,,Suitable
+3475620,132882,Acropora japonica,9.8.3,Foreslope (Outer Reef Slope),,,Marginal
+3480772,132892,Montipora hodgsoni,9.8.1,Outer Reef Channel,,,Marginal
+3480772,132892,Montipora hodgsoni,9.8.2,Back Slope,,,Suitable
+3480772,132892,Montipora hodgsoni,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3480772,132892,Montipora hodgsoni,9.8.4,Lagoon,,,Suitable
+3481551,132894,Favia veroni,9.8.1,Outer Reef Channel,,,Suitable
+3481551,132894,Favia veroni,9.8.2,Back Slope,,,Suitable
+3481551,132894,Favia veroni,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3481551,132894,Favia veroni,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3481551,132894,Favia veroni,9.8.4,Lagoon,,,Suitable
+3487914,132908,Acropora rosaria,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+3488412,132909,Acropora turaki,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3488412,132909,Acropora turaki,9.8.4,Lagoon,,,Suitable
+3488908,132910,Acropora divaricata,9.8.2,Back Slope,,,Suitable
+3488908,132910,Acropora divaricata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3488908,132910,Acropora divaricata,9.8.4,Lagoon,,,Suitable
+3493197,132919,Acropora stoddarti,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+3498147,132930,Montipora gaimardi,9.8.2,Back Slope,,,Suitable
+3498147,132930,Montipora gaimardi,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3498147,132930,Montipora gaimardi,9.8.4,Lagoon,,,Suitable
+3498522,132931,Acropora willisae,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3498522,132931,Acropora willisae,9.8.4,Lagoon,,,Suitable
+3499437,132933,Acropora carduus,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3499437,132933,Acropora carduus,9.8.4,Lagoon,,,Suitable
+3499437,132933,Acropora carduus,9.8.5,Inter-Reef Soft Substrate,,,Marginal
+3500180,132935,Acropora plumosa,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3500180,132935,Acropora plumosa,9.8.4,Lagoon,,,Suitable
+3503328,132942,Montipora patula,9.8.1,Outer Reef Channel,,,Suitable
+3503328,132942,Montipora patula,9.8.2,Back Slope,,,Suitable
+3503328,132942,Montipora patula,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3503328,132942,Montipora patula,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3503328,132942,Montipora patula,9.8.4,Lagoon,,,Suitable
+3503904,132944,Montipora nodosa,9.8.1,Outer Reef Channel,,,Suitable
+3503904,132944,Montipora nodosa,9.8.2,Back Slope,,,Suitable
+3503904,132944,Montipora nodosa,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3503904,132944,Montipora nodosa,9.8.4,Lagoon,,,Suitable
+3504801,132946,Acropora lianae,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+3506667,132950,Acropora macrostoma,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+3507379,132952,Acropora variabilis,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+3515966,132971,Acropora tumida,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+3516341,132972,Acropora paniculata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3516341,132972,Acropora paniculata,9.8.4,Lagoon,,,Suitable
+3516876,132973,Anacropora matthai,9.8.4,Lagoon,,,Suitable
+3516876,132973,Anacropora matthai,9.8.5,Inter-Reef Soft Substrate,,,Suitable
+3520070,132979,Favites complanata,9.8.1,Outer Reef Channel,,,Suitable
+3520070,132979,Favites complanata,9.8.2,Back Slope,,,Suitable
+3520070,132979,Favites complanata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3520070,132979,Favites complanata,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3520070,132979,Favites complanata,9.8.4,Lagoon,,,Suitable
+3520070,132979,Favites complanata,9.8.6,Inter-Reef Rubble Substrate,,,Marginal
+3521498,132981,Acropora hemprichii,9.8.1,Outer Reef Channel,,,Suitable
+3521498,132981,Acropora hemprichii,9.8.2,Back Slope,,,Suitable
+3521498,132981,Acropora hemprichii,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3521498,132981,Acropora hemprichii,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3521498,132981,Acropora hemprichii,9.8.4,Lagoon,,,Suitable
+3521498,132981,Acropora hemprichii,9.8.6,Inter-Reef Rubble Substrate,,,Unknown
+3521498,132981,Acropora hemprichii,9.8.5,Inter-Reef Soft Substrate,,,Unknown
+3524260,132987,Echinopora gemmacea,9.8.1,Outer Reef Channel,,,Suitable
+3524260,132987,Echinopora gemmacea,9.8.2,Back Slope,,,Suitable
+3524260,132987,Echinopora gemmacea,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3524260,132987,Echinopora gemmacea,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3524260,132987,Echinopora gemmacea,9.8.4,Lagoon,,,Suitable
+3524962,132988,Acropora longicyathus,9.8.2,Back Slope,,,Marginal
+3524962,132988,Acropora longicyathus,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3524962,132988,Acropora longicyathus,9.8.4,Lagoon,,,Suitable
+3530977,133060,Goniastrea favulus,9.8.1,Outer Reef Channel,,,Marginal
+3530977,133060,Goniastrea favulus,9.8.2,Back Slope,,,Suitable
+3530977,133060,Goniastrea favulus,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3530977,133060,Goniastrea favulus,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3530977,133060,Goniastrea favulus,9.8.4,Lagoon,,,Suitable
+3530977,133060,Goniastrea favulus,9.8.6,Inter-Reef Rubble Substrate,,,Marginal
+3532888,133061,Acropora tizardi,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+3534237,133003,Leptastrea bewickensis,9.8.2,Back Slope,,,Suitable
+3534237,133003,Leptastrea bewickensis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3534237,133003,Leptastrea bewickensis,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3534237,133003,Leptastrea bewickensis,9.8.4,Lagoon,,,Suitable
+3537466,133007,Montipora malampaya,9.8.2,Back Slope,,,Suitable
+3537466,133007,Montipora malampaya,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3537466,133007,Montipora malampaya,9.8.4,Lagoon,,,Suitable
+3537856,133078,Favites acuticollis,9.8.2,Back Slope,,,Suitable
+3537856,133078,Favites acuticollis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3537856,133078,Favites acuticollis,9.8.4,Lagoon,,,Suitable
+3539345,133080,Acropora selago,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3539345,133080,Acropora selago,9.8.4,Lagoon,,,Suitable
+3540096,133081,Acropora kirstyae,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3540096,133081,Acropora kirstyae,9.8.4,Lagoon,,,Suitable
+3540096,133081,Acropora kirstyae,9.8.5,Inter-Reef Soft Substrate,,,Suitable
+3540541,133010,Acropora elseyi,9.8.2,Back Slope,,,Marginal
+3540541,133010,Acropora elseyi,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3540541,133010,Acropora elseyi,9.8.4,Lagoon,,,Suitable
+3545567,133015,Montipora millepora,9.8.1,Outer Reef Channel,,,Marginal
+3545567,133015,Montipora millepora,9.8.2,Back Slope,,,Suitable
+3545567,133015,Montipora millepora,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3545567,133015,Montipora millepora,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3545567,133015,Montipora millepora,9.8.4,Lagoon,,,Suitable
+3547919,133017,Acropora plana,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+3548723,133018,Acropora minuta,9.8.2,Back Slope,,,Suitable
+3548723,133018,Acropora minuta,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3551566,133092,Astreopora incrustans,9.8.2,Back Slope,,,Suitable
+3551566,133092,Astreopora incrustans,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3553102,133022,Montipora niugini,9.8.2,Back Slope,,,Suitable
+3553102,133022,Montipora niugini,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3553102,133022,Montipora niugini,9.8.4,Lagoon,,,Suitable
+3553102,133022,Montipora niugini,9.8.6,Inter-Reef Rubble Substrate,,,Marginal
+3561302,133101,Goniastrea minuta,9.8.1,Outer Reef Channel,,,Marginal
+3561302,133101,Goniastrea minuta,9.8.2,Back Slope,,,Suitable
+3561302,133101,Goniastrea minuta,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3561302,133101,Goniastrea minuta,9.8.4,Lagoon,,,Suitable
+3561794,133030,Acropora tutuilensis,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+3562717,133031,Montipora effusa,9.8.1,Outer Reef Channel,,,Marginal
+3562717,133031,Montipora effusa,9.8.2,Back Slope,,,Suitable
+3562717,133031,Montipora effusa,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3562717,133031,Montipora effusa,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3562717,133031,Montipora effusa,9.8.4,Lagoon,,,Suitable
+3563274,133103,Acropora pinguis,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+3564383,133033,Acropora pulchra,9.8.2,Back Slope,,,Suitable
+3564383,133033,Acropora pulchra,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3564383,133033,Acropora pulchra,9.8.4,Lagoon,,,Suitable
+3566820,133035,Acropora insignis,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+3571197,133040,Echinopora mammiformis,9.8.2,Back Slope,,,Suitable
+3571197,133040,Echinopora mammiformis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3571197,133040,Echinopora mammiformis,9.8.4,Lagoon,,,Suitable
+3572830,133113,Montipora cactus,9.8.2,Back Slope,,,Suitable
+3572830,133113,Montipora cactus,9.8.3,Foreslope (Outer Reef Slope),,,Marginal
+3572830,133113,Montipora cactus,9.8.4,Lagoon,,,Suitable
+3572830,133113,Montipora cactus,9.8.5,Inter-Reef Soft Substrate,,,Suitable
+3578380,133048,Astreopora suggesta,9.8.2,Back Slope,,,Suitable
+3578380,133048,Astreopora suggesta,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3578380,133048,Astreopora suggesta,9.8.4,Lagoon,,,Suitable
+3578932,133120,Acropora latistella,9.8.2,Back Slope,,,Suitable
+3578932,133120,Acropora latistella,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3578932,133120,Acropora latistella,9.8.4,Lagoon,,,Suitable
+3580548,133050,Acropora vermiculata,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+3583402,133125,Acropora fenneri,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3586482,133128,Acropora pruinosa,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+3587170,133129,Astreopora ocellata,9.8.2,Back Slope,,,Marginal
+3587170,133129,Astreopora ocellata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3587170,133129,Astreopora ocellata,9.8.4,Lagoon,,,Suitable
+3588650,133059,Platygyra verweyi,9.8.2,Back Slope,,,Suitable
+3588650,133059,Platygyra verweyi,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3588650,133059,Platygyra verweyi,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3588650,133059,Platygyra verweyi,9.8.4,Lagoon,,,Suitable
+3589759,133131,Montipora friabilis,9.8.2,Back Slope,,,Suitable
+3589759,133131,Montipora friabilis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3589759,133131,Montipora friabilis,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3589759,133131,Montipora friabilis,9.8.4,Lagoon,,,Suitable
+3591441,133067,Platygyra yaeyamaensis,9.8.2,Back Slope,,,Suitable
+3591441,133067,Platygyra yaeyamaensis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3591441,133067,Platygyra yaeyamaensis,9.8.4,Lagoon,,,Suitable
+3591848,133133,Acropora abrolhosensis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3591848,133133,Acropora abrolhosensis,9.8.4,Lagoon,,,Suitable
+3591848,133133,Acropora abrolhosensis,9.8.5,Inter-Reef Soft Substrate,,,Suitable
+3592271,133068,Platygyra sinensis,9.8.1,Outer Reef Channel,,,Marginal
+3592271,133068,Platygyra sinensis,9.8.2,Back Slope,,,Suitable
+3592271,133068,Platygyra sinensis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3592271,133068,Platygyra sinensis,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3592271,133068,Platygyra sinensis,9.8.4,Lagoon,,,Suitable
+3593444,133069,Astreopora cucullata,9.8.2,Back Slope,,,Suitable
+3593444,133069,Astreopora cucullata,9.8.3,Foreslope (Outer Reef Slope),,,Marginal
+3593444,133069,Astreopora cucullata,9.8.4,Lagoon,,,Marginal
+3598100,133074,Goniastrea deformis,9.8.2,Back Slope,,,Suitable
+3598100,133074,Goniastrea deformis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3598100,133074,Goniastrea deformis,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3598100,133074,Goniastrea deformis,9.8.4,Lagoon,,,Suitable
+3607835,133160,Acropora austera,9.8.2,Back Slope,,,Marginal
+3607835,133160,Acropora austera,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3607835,133160,Acropora austera,9.8.4,Lagoon,,,Suitable
+3608479,133161,Platygyra contorta,9.8.2,Back Slope,,,Suitable
+3608479,133161,Platygyra contorta,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3608479,133161,Platygyra contorta,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3608479,133161,Platygyra contorta,9.8.4,Lagoon,,,Suitable
+3609003,133162,Montastrea salebrosa,9.8.2,Back Slope,,,Suitable
+3609003,133162,Montastrea salebrosa,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3609003,133162,Montastrea salebrosa,9.8.4,Lagoon,,,Suitable
+3609729,133164,Acropora russelli,9.8.4,Lagoon,,,Suitable
+3609729,133164,Acropora russelli,9.8.6,Inter-Reef Rubble Substrate,,,Suitable
+3609729,133164,Acropora russelli,9.8.5,Inter-Reef Soft Substrate,,,Suitable
+3612492,133170,Montipora dilatata,9.8.2,Back Slope,,,Suitable
+3612492,133170,Montipora dilatata,9.8.4,Lagoon,,,Marginal
+3616568,133178,Montastrea annuligera,9.8.2,Back Slope,,,Suitable
+3616568,133178,Montastrea annuligera,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3616568,133178,Montastrea annuligera,9.8.4,Lagoon,,,Suitable
+3618783,133182,Isopora brueggemanni,9.8.1,Outer Reef Channel,,,Suitable
+3618783,133182,Isopora brueggemanni,9.8.2,Back Slope,,,Suitable
+3618783,133182,Isopora brueggemanni,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3618783,133182,Isopora brueggemanni,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3618783,133182,Isopora brueggemanni,9.8.4,Lagoon,,,Suitable
+3618783,133182,Isopora brueggemanni,9.8.6,Inter-Reef Rubble Substrate,,,Unknown
+3618783,133182,Isopora brueggemanni,9.8.5,Inter-Reef Soft Substrate,,,Unknown
+3621724,133188,Echinopora hirsutissima,9.8.1,Outer Reef Channel,,,Marginal
+3621724,133188,Echinopora hirsutissima,9.8.2,Back Slope,,,Suitable
+3621724,133188,Echinopora hirsutissima,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3621724,133188,Echinopora hirsutissima,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Marginal
+3621724,133188,Echinopora hirsutissima,9.8.4,Lagoon,,,Suitable
+3622351,133189,Acropora meridiana,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+3622829,133190,Montipora vietnamensis,9.8.1,Outer Reef Channel,,,Marginal
+3622829,133190,Montipora vietnamensis,9.8.2,Back Slope,,,Suitable
+3622829,133190,Montipora vietnamensis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3622829,133190,Montipora vietnamensis,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3622829,133190,Montipora vietnamensis,9.8.4,Lagoon,,,Suitable
+3623220,133191,Montipora porites,9.8.2,Back Slope,,,Suitable
+3623220,133191,Montipora porites,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3623220,133191,Montipora porites,9.8.4,Lagoon,,,Suitable
+3624060,133193,Heliopora coerulea,9.8.4,Lagoon,,,Suitable
+3624773,133194,Montipora digitata,9.8.2,Back Slope,,,Suitable
+3624773,133194,Montipora digitata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3624773,133194,Montipora digitata,9.8.4,Lagoon,,,Marginal
+3625707,133196,Montipora incrassata,9.8.1,Outer Reef Channel,,,Suitable
+3625707,133196,Montipora incrassata,9.8.2,Back Slope,,,Suitable
+3625707,133196,Montipora incrassata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3625707,133196,Montipora incrassata,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3625707,133196,Montipora incrassata,9.8.4,Lagoon,,,Marginal
+3631022,133207,Acropora clathrata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3631022,133207,Acropora clathrata,9.8.4,Lagoon,,,Suitable
+3633217,133210,Favia speciosa,9.8.1,Outer Reef Channel,,,Suitable
+3633217,133210,Favia speciosa,9.8.2,Back Slope,,,Suitable
+3633217,133210,Favia speciosa,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3633217,133210,Favia speciosa,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3633217,133210,Favia speciosa,9.8.4,Lagoon,,,Suitable
+3633217,133210,Favia speciosa,9.8.6,Inter-Reef Rubble Substrate,,,Marginal
+3639848,133223,Acropora donei,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3639848,133223,Acropora donei,9.8.4,Lagoon,,,Suitable
+3641605,133227,Astreopora expansa,9.8.2,Back Slope,,,Marginal
+3641605,133227,Astreopora expansa,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3641605,133227,Astreopora expansa,9.8.4,Lagoon,,,Suitable
+3642551,133229,Montipora flabellata,9.8.1,Outer Reef Channel,,,Suitable
+3642551,133229,Montipora flabellata,9.8.2,Back Slope,,,Suitable
+3642551,133229,Montipora flabellata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3642551,133229,Montipora flabellata,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3642551,133229,Montipora flabellata,9.8.4,Lagoon,,,Suitable
+3644721,133233,Acropora kimbeensis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3644721,133233,Acropora kimbeensis,9.8.4,Lagoon,,,Marginal
+3646741,133238,Montipora hispida,9.8.1,Outer Reef Channel,,,Marginal
+3646741,133238,Montipora hispida,9.8.2,Back Slope,,,Suitable
+3646741,133238,Montipora hispida,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3646741,133238,Montipora hispida,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3646741,133238,Montipora hispida,9.8.4,Lagoon,,,Suitable
+3649963,133243,Echinopora pacificus,9.8.1,Outer Reef Channel,,,Marginal
+3649963,133243,Echinopora pacificus,9.8.2,Back Slope,,,Suitable
+3649963,133243,Echinopora pacificus,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3649963,133243,Echinopora pacificus,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3649963,133243,Echinopora pacificus,9.8.4,Lagoon,,,Suitable
+3649963,133243,Echinopora pacificus,9.8.5,Inter-Reef Soft Substrate,,,Marginal
+3651115,133245,Montipora spongodes,9.8.1,Outer Reef Channel,,,Marginal
+3651115,133245,Montipora spongodes,9.8.2,Back Slope,,,Suitable
+3651115,133245,Montipora spongodes,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3651115,133245,Montipora spongodes,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3651115,133245,Montipora spongodes,9.8.4,Lagoon,,,Suitable
+3658855,133259,Montipora stellata,9.8.2,Back Slope,,,Suitable
+3658855,133259,Montipora stellata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3658855,133259,Montipora stellata,9.8.4,Lagoon,,,Suitable
+3659374,133260,Trachyphyllia geoffroyi,9.8.2,Back Slope,,,Suitable
+3659374,133260,Trachyphyllia geoffroyi,9.8.6,Inter-Reef Rubble Substrate,,,Suitable
+3659374,133260,Trachyphyllia geoffroyi,9.8.4,Lagoon,,,Suitable
+3659374,133260,Trachyphyllia geoffroyi,9.8.5,Inter-Reef Soft Substrate,,,Suitable
+3661581,133265,Acropora orbicularis,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+3661951,133266,Acropora nobilis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3661951,133266,Acropora nobilis,9.8.4,Lagoon,,,Suitable
+3664344,133271,Acropora sarmentosa,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3664344,133271,Acropora sarmentosa,9.8.4,Lagoon,,,Suitable
+3665366,133273,Acropora inermis,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+3665886,133274,Acropora sekiseiensis,9.8.2,Back Slope,,,Suitable
+3665886,133274,Acropora sekiseiensis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3665886,133274,Acropora sekiseiensis,9.8.4,Lagoon,,,Suitable
+3666546,133276,Millepora latifolia,9.8.1,Outer Reef Channel,,,Suitable
+3666546,133276,Millepora latifolia,9.8.2,Back Slope,,,Suitable
+3666546,133276,Millepora latifolia,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3666546,133276,Millepora latifolia,9.8.4,Lagoon,,,Suitable
+3667540,133278,Leptastrea pruinosa,9.8.1,Outer Reef Channel,,,Marginal
+3667540,133278,Leptastrea pruinosa,9.8.2,Back Slope,,,Suitable
+3667540,133278,Leptastrea pruinosa,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3667540,133278,Leptastrea pruinosa,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3667540,133278,Leptastrea pruinosa,9.8.4,Lagoon,,,Suitable
+3667540,133278,Leptastrea pruinosa,9.8.6,Inter-Reef Rubble Substrate,,,Marginal
+3668188,133279,Acropora parilis,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+3670775,133285,Montipora palawanensis,9.8.2,Back Slope,,,Suitable
+3670775,133285,Montipora palawanensis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3670775,133285,Montipora palawanensis,9.8.4,Lagoon,,,Suitable
+3676822,133298,Montipora turgescens,9.8.1,Outer Reef Channel,,,Suitable
+3676822,133298,Montipora turgescens,9.8.2,Back Slope,,,Suitable
+3676822,133298,Montipora turgescens,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3676822,133298,Montipora turgescens,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3676822,133298,Montipora turgescens,9.8.4,Lagoon,,,Suitable
+3680892,133306,Astreopora macrostoma,9.8.2,Back Slope,,,Suitable
+3680892,133306,Astreopora macrostoma,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3680892,133306,Astreopora macrostoma,9.8.4,Lagoon,,,Marginal
+3681329,133307,Favia rotundata,9.8.2,Back Slope,,,Suitable
+3681329,133307,Favia rotundata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3681329,133307,Favia rotundata,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3681329,133307,Favia rotundata,9.8.4,Lagoon,,,Suitable
+3682860,133310,Leptoria irregularis,9.8.2,Back Slope,,,Suitable
+3682860,133310,Leptoria irregularis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3682860,133310,Leptoria irregularis,9.8.4,Lagoon,,,Marginal
+3683643,133312,Acropora fastigata,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+3684008,133313,Acropora cytherea,9.8.2,Back Slope,,,Suitable
+3684008,133313,Acropora cytherea,9.8.3,Foreslope (Outer Reef Slope),,,Marginal
+3684008,133313,Acropora cytherea,9.8.4,Lagoon,,,Suitable
+3686803,133318,Acropora torihalimeda,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3686803,133318,Acropora torihalimeda,9.8.4,Lagoon,,,Suitable
+3686803,133318,Acropora torihalimeda,9.8.6,Inter-Reef Rubble Substrate,,,Suitable
+3686803,133318,Acropora torihalimeda,9.8.5,Inter-Reef Soft Substrate,,,Suitable
+3687166,133319,Acropora horrida,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3687166,133319,Acropora horrida,9.8.4,Lagoon,,,Suitable
+3688042,133320,Acropora solitaryensis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3688042,133320,Acropora solitaryensis,9.8.4,Lagoon,,,Suitable
+3688541,133321,Cyphastrea ocellina,9.8.1,Outer Reef Channel,,,Marginal
+3688541,133321,Cyphastrea ocellina,9.8.2,Back Slope,,,Suitable
+3688541,133321,Cyphastrea ocellina,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3688541,133321,Cyphastrea ocellina,9.8.4,Lagoon,,,Suitable
+3689003,133322,Acropora dendrum,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3694756,133333,Oulophyllia bennettae,9.8.2,Back Slope,,,Suitable
+3694756,133333,Oulophyllia bennettae,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3694756,133333,Oulophyllia bennettae,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Marginal
+3697011,133338,Acropora speciosa,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3697011,133338,Acropora speciosa,9.8.4,Lagoon,,,Suitable
+3698245,133341,Anacropora forbesi,9.8.3,Foreslope (Outer Reef Slope),,,Marginal
+3698245,133341,Anacropora forbesi,9.8.4,Lagoon,,,Suitable
+3698245,133341,Anacropora forbesi,9.8.5,Inter-Reef Soft Substrate,,,Suitable
+3703303,133352,Acropora gomezi,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3704805,133355,Acropora scherzeriana,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+3706472,133359,Acropora microclados,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3706472,133359,Acropora microclados,9.8.4,Lagoon,,,Suitable
+3710227,133367,Montipora confusa,9.8.2,Back Slope,,,Suitable
+3710227,133367,Montipora confusa,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3710227,133367,Montipora confusa,9.8.4,Lagoon,,,Suitable
+3712904,133374,Montastrea multipunctata,9.8.2,Back Slope,,,Suitable
+3712904,133374,Montastrea multipunctata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3712904,133374,Montastrea multipunctata,9.8.4,Lagoon,,,Suitable
+3713346,133375,Montipora corbettensis,9.8.1,Outer Reef Channel,,,Marginal
+3713346,133375,Montipora corbettensis,9.8.2,Back Slope,,,Suitable
+3713346,133375,Montipora corbettensis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3713346,133375,Montipora corbettensis,9.8.4,Lagoon,,,Suitable
+3721615,133392,Favia laxa,9.8.2,Back Slope,,,Suitable
+3721615,133392,Favia laxa,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3721615,133392,Favia laxa,9.8.4,Lagoon,,,Suitable
+3722644,133394,Acropora loisetteae,9.8.4,Lagoon,,,Suitable
+3726166,133401,Acropora hoeksemai,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3727543,133404,Montipora samarensis,9.8.2,Back Slope,,,Suitable
+3727543,133404,Montipora samarensis,9.8.3,Foreslope (Outer Reef Slope),,,Marginal
+3727543,133404,Montipora samarensis,9.8.4,Lagoon,,,Suitable
+3727973,133405,Caulastrea tumida,9.8.2,Back Slope,,,Suitable
+3727973,133405,Caulastrea tumida,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3727973,133405,Caulastrea tumida,9.8.4,Lagoon,,,Suitable
+3727973,133405,Caulastrea tumida,9.8.5,Inter-Reef Soft Substrate,,,Marginal
+3730592,133409,Montipora verruculosus,9.8.2,Back Slope,,,Suitable
+3730592,133409,Montipora verruculosus,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3730592,133409,Montipora verruculosus,9.8.4,Lagoon,,,Suitable
+3734638,133417,Caulastrea furcata,9.8.2,Back Slope,,,Suitable
+3734638,133417,Caulastrea furcata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3734638,133417,Caulastrea furcata,9.8.4,Lagoon,,,Suitable
+3734638,133417,Caulastrea furcata,9.8.5,Inter-Reef Soft Substrate,,,Suitable
+3738458,133424,Leptastrea inaequalis,9.8.2,Back Slope,,,Suitable
+3738458,133424,Leptastrea inaequalis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3738458,133424,Leptastrea inaequalis,9.8.4,Lagoon,,,Suitable
+3738458,133424,Leptastrea inaequalis,9.8.6,Inter-Reef Rubble Substrate,,,Suitable
+3740058,133427,Acropora simplex,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3740058,133427,Acropora simplex,9.8.4,Lagoon,,,Suitable
+3742589,133432,Acropora spicifera,9.8.2,Back Slope,,,Suitable
+3742589,133432,Acropora spicifera,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3743106,133433,Montipora crassituberculata,9.8.2,Back Slope,,,Suitable
+3743106,133433,Montipora crassituberculata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3743106,133433,Montipora crassituberculata,9.8.4,Lagoon,,,Suitable
+3743106,133433,Montipora crassituberculata,9.8.5,Inter-Reef Soft Substrate,,,Marginal
+3743594,133434,Montipora mactanensis,9.8.2,Back Slope,,,Suitable
+3743594,133434,Montipora mactanensis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3743594,133434,Montipora mactanensis,9.8.4,Lagoon,,,Suitable
+3748279,133443,Montipora australiensis,9.8.1,Outer Reef Channel,,,Marginal
+3748279,133443,Montipora australiensis,9.8.2,Back Slope,,,Suitable
+3748279,133443,Montipora australiensis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3748279,133443,Montipora australiensis,9.8.4,Lagoon,,,Marginal
+3751322,133450,Montipora turtlensis,9.8.1,Outer Reef Channel,,,Marginal
+3751322,133450,Montipora turtlensis,9.8.2,Back Slope,,,Suitable
+3751322,133450,Montipora turtlensis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3751322,133450,Montipora turtlensis,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3751322,133450,Montipora turtlensis,9.8.4,Lagoon,,,Suitable
+3756703,133460,Montipora cocosensis,9.8.2,Back Slope,,,Suitable
+3756703,133460,Montipora cocosensis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3756703,133460,Montipora cocosensis,9.8.4,Lagoon,,,Suitable
+3761737,133472,Isopora crateriformis,9.8.2,Back Slope,,,Suitable
+3761737,133472,Isopora crateriformis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3763341,133475,Acropora pagoensis,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+3765052,133479,Acropora hyacinthus,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3765052,133479,Acropora hyacinthus,9.8.4,Lagoon,,,Suitable
+3767185,133483,Acropora mirabilis,9.8.1,Outer Reef Channel,,,Suitable
+3767185,133483,Acropora mirabilis,9.8.2,Back Slope,,,Suitable
+3767185,133483,Acropora mirabilis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3767185,133483,Acropora mirabilis,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3767185,133483,Acropora mirabilis,9.8.4,Lagoon,,,Suitable
+3767185,133483,Acropora mirabilis,9.8.6,Inter-Reef Rubble Substrate,,,Unknown
+3767185,133483,Acropora mirabilis,9.8.5,Inter-Reef Soft Substrate,,,Unknown
+3772361,133494,Acropora papillare,9.8.2,Back Slope,,,Suitable
+3773853,133497,Caulastrea echinulata,9.8.2,Back Slope,,,Suitable
+3773853,133497,Caulastrea echinulata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3773853,133497,Caulastrea echinulata,9.8.4,Lagoon,,,Suitable
+3773853,133497,Caulastrea echinulata,9.8.5,Inter-Reef Soft Substrate,,,Suitable
+3778200,133505,Montipora taiwanensis,9.8.1,Outer Reef Channel,,,Suitable
+3778200,133505,Montipora taiwanensis,9.8.2,Back Slope,,,Suitable
+3778200,133505,Montipora taiwanensis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3778200,133505,Montipora taiwanensis,9.8.4,Lagoon,,,Suitable
+3779166,133508,Platygyra acuta,9.8.2,Back Slope,,,Suitable
+3779166,133508,Platygyra acuta,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3779166,133508,Platygyra acuta,9.8.4,Lagoon,,,Suitable
+3780151,133510,Favia lizardensis,9.8.1,Outer Reef Channel,,,Marginal
+3780151,133510,Favia lizardensis,9.8.2,Back Slope,,,Suitable
+3780151,133510,Favia lizardensis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3780151,133510,Favia lizardensis,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Marginal
+3780151,133510,Favia lizardensis,9.8.4,Lagoon,,,Suitable
+3781375,133513,Acropora anthocercis,9.8.2,Back Slope,,,Suitable
+3781375,133513,Acropora anthocercis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3781375,133513,Acropora anthocercis,9.8.4,Lagoon,,,Marginal
+3782264,133515,Goniastrea ramosa,9.8.2,Back Slope,,,Suitable
+3782264,133515,Goniastrea ramosa,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3782264,133515,Goniastrea ramosa,9.8.4,Lagoon,,,Suitable
+3783479,133518,Acropora wallaceae,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+3796328,133547,Acropora yongei,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3796328,133547,Acropora yongei,9.8.4,Lagoon,,,Suitable
+3798083,133550,Acropora glauca,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3800877,133556,Montipora spumosa,9.8.2,Back Slope,,,Suitable
+3800877,133556,Montipora spumosa,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3800877,133556,Montipora spumosa,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3800877,133556,Montipora spumosa,9.8.4,Lagoon,,,Suitable
+3804883,133563,Montipora peltiformis,9.8.1,Outer Reef Channel,,,Marginal
+3804883,133563,Montipora peltiformis,9.8.2,Back Slope,,,Suitable
+3804883,133563,Montipora peltiformis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3804883,133563,Montipora peltiformis,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3804883,133563,Montipora peltiformis,9.8.4,Lagoon,,,Suitable
+3808958,133571,Platygyra carnosus,9.8.2,Back Slope,,,Suitable
+3808958,133571,Platygyra carnosus,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3808958,133571,Platygyra carnosus,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3808958,133571,Platygyra carnosus,9.8.4,Lagoon,,,Suitable
+3812131,133578,Favites bestae,9.8.2,Back Slope,,,Suitable
+3812131,133578,Favites bestae,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3812131,133578,Favites bestae,9.8.4,Lagoon,,,Suitable
+3812839,133580,Montipora hirsuta,9.8.1,Outer Reef Channel,,,Suitable
+3812839,133580,Montipora hirsuta,9.8.2,Back Slope,,,Suitable
+3812839,133580,Montipora hirsuta,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3812839,133580,Montipora hirsuta,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3812839,133580,Montipora hirsuta,9.8.4,Lagoon,,,Suitable
+3812839,133580,Montipora hirsuta,9.8.6,Inter-Reef Rubble Substrate,,,Unknown
+3812839,133580,Montipora hirsuta,9.8.5,Inter-Reef Soft Substrate,,,Unknown
+3818507,133592,Acropora exquisita,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+3821628,133598,Acropora proximalis,9.8.2,Back Slope,,,Suitable
+3821628,133598,Acropora proximalis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3821970,133599,Montipora undata,9.8.1,Outer Reef Channel,,,Marginal
+3821970,133599,Montipora undata,9.8.2,Back Slope,,,Suitable
+3821970,133599,Montipora undata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3821970,133599,Montipora undata,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3821970,133599,Montipora undata,9.8.4,Lagoon,,,Suitable
+3827924,133612,Millepora foveolata,9.8.1,Outer Reef Channel,,,Suitable
+3827924,133612,Millepora foveolata,9.8.2,Back Slope,,,Suitable
+3827924,133612,Millepora foveolata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3827924,133612,Millepora foveolata,9.8.4,Lagoon,,,Suitable
+3831999,133620,Australogyra zelli,9.8.2,Back Slope,,,Suitable
+3831999,133620,Australogyra zelli,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3831999,133620,Australogyra zelli,9.8.4,Lagoon,,,Suitable
+3832396,133621,Acropora valenciennesi,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3832396,133621,Acropora valenciennesi,9.8.4,Lagoon,,,Suitable
+3833067,133622,Montipora capitata,9.8.2,Back Slope,,,Suitable
+3833067,133622,Montipora capitata,9.8.3,Foreslope (Outer Reef Slope),,,Marginal
+3833067,133622,Montipora capitata,9.8.4,Lagoon,,,Suitable
+3833067,133622,Montipora capitata,9.8.5,Inter-Reef Soft Substrate,,,Marginal
+3833556,133623,Montipora cebuensis,9.8.2,Back Slope,,,Suitable
+3833556,133623,Montipora cebuensis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3833556,133623,Montipora cebuensis,9.8.4,Lagoon,,,Suitable
+3835999,133629,Favites stylifera,9.8.1,Outer Reef Channel,,,Suitable
+3835999,133629,Favites stylifera,9.8.2,Back Slope,,,Suitable
+3835999,133629,Favites stylifera,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3835999,133629,Favites stylifera,9.8.4,Lagoon,,,Suitable
+3836426,133630,Favites micropentagona,9.8.2,Back Slope,,,Suitable
+3836426,133630,Favites micropentagona,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3836426,133630,Favites micropentagona,9.8.4,Lagoon,,,Suitable
+3841032,133639,Acropora pichoni,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3841032,133639,Acropora pichoni,9.8.4,Lagoon,,,Suitable
+3845401,133647,Acropora polystoma,9.8.2,Back Slope,,,Suitable
+3845401,133647,Acropora polystoma,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3847420,133650,Favites paraflexuosa,9.8.2,Back Slope,,,Suitable
+3847420,133650,Favites paraflexuosa,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3847420,133650,Favites paraflexuosa,9.8.4,Lagoon,,,Suitable
+3847939,133651,Platygyra lamellina,9.8.2,Back Slope,,,Suitable
+3847939,133651,Platygyra lamellina,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3847939,133651,Platygyra lamellina,9.8.4,Lagoon,,,Suitable
+3849670,133654,Favites chinensis,9.8.1,Outer Reef Channel,,,Suitable
+3849670,133654,Favites chinensis,9.8.2,Back Slope,,,Suitable
+3849670,133654,Favites chinensis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3849670,133654,Favites chinensis,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3849670,133654,Favites chinensis,9.8.4,Lagoon,,,Suitable
+3849670,133654,Favites chinensis,9.8.6,Inter-Reef Rubble Substrate,,,Marginal
+3850335,133655,Acropora akajimensis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3850335,133655,Acropora akajimensis,9.8.4,Lagoon,,,Suitable
+3852783,133661,Acropora echinata,9.8.4,Lagoon,,,Suitable
+3852783,133661,Acropora echinata,9.8.5,Inter-Reef Soft Substrate,,,Suitable
+3856563,133669,Cyphastrea decadia,9.8.2,Back Slope,,,Suitable
+3856563,133669,Cyphastrea decadia,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3856563,133669,Cyphastrea decadia,9.8.4,Lagoon,,,Suitable
+3856563,133669,Cyphastrea decadia,9.8.5,Inter-Reef Soft Substrate,,,Suitable
+3857791,133672,Acropora efflorescens,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+3858821,133674,Montipora mollis,9.8.1,Outer Reef Channel,,,Marginal
+3858821,133674,Montipora mollis,9.8.2,Back Slope,,,Suitable
+3858821,133674,Montipora mollis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3858821,133674,Montipora mollis,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3858821,133674,Montipora mollis,9.8.4,Lagoon,,,Suitable
+3860815,133678,Acropora copiosa,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+3862790,133682,Acropora subulata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3862790,133682,Acropora subulata,9.8.4,Lagoon,,,Suitable
+3865610,133688,Acropora elegans,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3865610,133688,Acropora elegans,9.8.4,Lagoon,,,Suitable
+3865955,133689,Anacropora reticulata,9.8.2,Back Slope,,,Suitable
+3865955,133689,Anacropora reticulata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3865955,133689,Anacropora reticulata,9.8.4,Lagoon,,,Suitable
+3866487,133690,Cyphastrea japonica,9.8.2,Back Slope,,,Suitable
+3866487,133690,Cyphastrea japonica,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3866487,133690,Cyphastrea japonica,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+3866487,133690,Cyphastrea japonica,9.8.4,Lagoon,,,Suitable
+3868413,133695,Caulastrea curvata,9.8.2,Back Slope,,,Suitable
+3868413,133695,Caulastrea curvata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3868413,133695,Caulastrea curvata,9.8.4,Lagoon,,,Suitable
+3868413,133695,Caulastrea curvata,9.8.5,Inter-Reef Soft Substrate,,,Suitable
+3868861,133696,Montipora altasepta,9.8.2,Back Slope,,,Suitable
+3868861,133696,Montipora altasepta,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3868861,133696,Montipora altasepta,9.8.4,Lagoon,,,Suitable
+3868861,133696,Montipora altasepta,9.8.5,Inter-Reef Soft Substrate,,,Marginal
+3869980,133698,Acropora nana,9.8.2,Back Slope,,,Suitable
+3869980,133698,Acropora nana,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+3869980,133698,Acropora nana,9.8.4,Lagoon,,,Marginal
+54150383,132862,Acropora cophodactyla,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+54151400,132869,Acropora florida,9.8.2,Back Slope,,,Marginal
+54151400,132869,Acropora florida,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54151400,132869,Acropora florida,9.8.4,Lagoon,,,Suitable
+54152435,132878,Favia maxima,9.8.5,Inter-Reef Soft Substrate,,,Marginal
+54152435,132878,Favia maxima,9.8.2,Back Slope,,,Suitable
+54152435,132878,Favia maxima,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54152435,132878,Favia maxima,9.8.4,Lagoon,,,Suitable
+54152435,132878,Favia maxima,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54154226,132883,Goniastrea australensis,9.8.1,Outer Reef Channel,,,Marginal
+54154226,132883,Goniastrea australensis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54154226,132883,Goniastrea australensis,9.8.2,Back Slope,,,Suitable
+54154226,132883,Goniastrea australensis,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54154226,132883,Goniastrea australensis,9.8.4,Lagoon,,,Suitable
+54156250,132888,Acropora secale,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54156250,132888,Acropora secale,9.8.2,Back Slope,,,Suitable
+54156250,132888,Acropora secale,9.8.4,Lagoon,,,Suitable
+54158837,132906,Acropora irregularis,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+54161679,132922,Montastrea curta,9.8.1,Outer Reef Channel,,,Suitable
+54161679,132922,Montastrea curta,9.8.4,Lagoon,,,Suitable
+54161679,132922,Montastrea curta,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54161679,132922,Montastrea curta,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54161679,132922,Montastrea curta,9.8.2,Back Slope,,,Suitable
+54163337,132936,Favia pallida,9.8.5,Inter-Reef Soft Substrate,,,Marginal
+54163337,132936,Favia pallida,9.8.1,Outer Reef Channel,,,Suitable
+54163337,132936,Favia pallida,9.8.2,Back Slope,,,Suitable
+54163337,132936,Favia pallida,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54163337,132936,Favia pallida,9.8.4,Lagoon,,,Suitable
+54163337,132936,Favia pallida,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54164079,132940,Acropora acuminata,9.8.4,Lagoon,,,Suitable
+54164079,132940,Acropora acuminata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54164687,132948,Acropora granulosa,9.8.4,Lagoon,,,Suitable
+54164687,132948,Acropora granulosa,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54167680,132966,Acropora rambleri,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+54168256,132969,Acropora listeri,9.8.2,Back Slope,,,Suitable
+54168256,132969,Acropora listeri,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54169590,132976,Acropora loripes,9.8.2,Back Slope,,,Suitable
+54169590,132976,Acropora loripes,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54169590,132976,Acropora loripes,9.8.4,Lagoon,,,Suitable
+54170240,132978,Montastrea magnistellata,9.8.4,Lagoon,,,Suitable
+54170240,132978,Montastrea magnistellata,9.8.1,Outer Reef Channel,,,Marginal
+54170240,132978,Montastrea magnistellata,9.8.2,Back Slope,,,Suitable
+54170240,132978,Montastrea magnistellata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54170240,132978,Montastrea magnistellata,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54170883,132980,Leptoria phrygia,9.8.1,Outer Reef Channel,,,Suitable
+54170883,132980,Leptoria phrygia,9.8.6,Inter-Reef Rubble Substrate,,,Unknown
+54170883,132980,Leptoria phrygia,9.8.5,Inter-Reef Soft Substrate,,,Unknown
+54170883,132980,Leptoria phrygia,9.8.2,Back Slope,,,Suitable
+54170883,132980,Leptoria phrygia,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54170883,132980,Leptoria phrygia,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54170883,132980,Leptoria phrygia,9.8.4,Lagoon,,,Suitable
+54171607,132983,Leptastrea bottae,9.8.4,Lagoon,,,Suitable
+54171607,132983,Leptastrea bottae,9.8.2,Back Slope,,,Suitable
+54171607,132983,Leptastrea bottae,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54172878,132992,Acropora humilis,9.8.2,Back Slope,,,Suitable
+54172878,132992,Acropora humilis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54172878,132992,Acropora humilis,9.8.4,Lagoon,,,Marginal
+54173555,132997,Montastrea valenciennesi,9.8.2,Back Slope,,,Suitable
+54173555,132997,Montastrea valenciennesi,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54173555,132997,Montastrea valenciennesi,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54173555,132997,Montastrea valenciennesi,9.8.4,Lagoon,,,Suitable
+54173555,132997,Montastrea valenciennesi,9.8.1,Outer Reef Channel,,,Marginal
+54173555,132997,Montastrea valenciennesi,9.8.6,Inter-Reef Rubble Substrate,,,Marginal
+54174146,132998,Acropora samoensis,9.8.2,Back Slope,,,Suitable
+54174146,132998,Acropora samoensis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54174146,132998,Acropora samoensis,9.8.1,Outer Reef Channel,,,Suitable
+54174146,132998,Acropora samoensis,9.8.4,Lagoon,,,Suitable
+54174814,133000,Acropora ocellata,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+54176059,133013,Acropora grandis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54176059,133013,Acropora grandis,9.8.4,Lagoon,,,Suitable
+54177216,133020,Acropora tenuis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54177216,133020,Acropora tenuis,9.8.4,Lagoon,,,Suitable
+54177216,133020,Acropora tenuis,9.8.2,Back Slope,,,Suitable
+54177921,133021,Acropora microphthalma,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54177921,133021,Acropora microphthalma,9.8.4,Lagoon,,,Suitable
+54179867,133025,Acropora vaughani,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54179867,133025,Acropora vaughani,9.8.4,Lagoon,,,Suitable
+54181084,133029,Favia rotumana,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54181084,133029,Favia rotumana,9.8.2,Back Slope,,,Suitable
+54181084,133029,Favia rotumana,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54181084,133029,Favia rotumana,9.8.1,Outer Reef Channel,,,Suitable
+54181084,133029,Favia rotumana,9.8.4,Lagoon,,,Suitable
+54185058,133046,Anacropora spinosa,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54185058,133046,Anacropora spinosa,9.8.2,Back Slope,,,Suitable
+54185058,133046,Anacropora spinosa,9.8.4,Lagoon,,,Suitable
+54186872,133055,Favites halicora,9.8.1,Outer Reef Channel,,,Suitable
+54186872,133055,Favites halicora,9.8.4,Lagoon,,,Suitable
+54186872,133055,Favites halicora,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54186872,133055,Favites halicora,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54186872,133055,Favites halicora,9.8.2,Back Slope,,,Suitable
+54188728,133066,Montipora informis,9.8.4,Lagoon,,,Suitable
+54188728,133066,Montipora informis,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Marginal
+54188728,133066,Montipora informis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54188728,133066,Montipora informis,9.8.2,Back Slope,,,Suitable
+54189409,133070,Montastrea colemani,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54189409,133070,Montastrea colemani,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54189409,133070,Montastrea colemani,9.8.4,Lagoon,,,Suitable
+54189409,133070,Montastrea colemani,9.8.2,Back Slope,,,Suitable
+54189409,133070,Montastrea colemani,9.8.1,Outer Reef Channel,,,Marginal
+54189890,133071,Montipora foliosa,9.8.5,Inter-Reef Soft Substrate,,,Marginal
+54189890,133071,Montipora foliosa,9.8.2,Back Slope,,,Suitable
+54189890,133071,Montipora foliosa,9.8.3,Foreslope (Outer Reef Slope),,,Marginal
+54189890,133071,Montipora foliosa,9.8.4,Lagoon,,,Suitable
+54192366,133084,Barabattoia amicorum,9.8.3,Foreslope (Outer Reef Slope),,,Marginal
+54192366,133084,Barabattoia amicorum,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Marginal
+54192366,133084,Barabattoia amicorum,9.8.2,Back Slope,,,Suitable
+54192366,133084,Barabattoia amicorum,9.8.4,Lagoon,,,Suitable
+54192366,133084,Barabattoia amicorum,9.8.5,Inter-Reef Soft Substrate,,,Suitable
+54192983,133087,Acropora subglabra,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54192983,133087,Acropora subglabra,9.8.4,Lagoon,,,Suitable
+54192983,133087,Acropora subglabra,9.8.5,Inter-Reef Soft Substrate,,,Suitable
+54193471,133088,Echinopora lamellosa,9.8.5,Inter-Reef Soft Substrate,,,Suitable
+54193471,133088,Echinopora lamellosa,9.8.4,Lagoon,,,Suitable
+54193471,133088,Echinopora lamellosa,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54193471,133088,Echinopora lamellosa,9.8.2,Back Slope,,,Suitable
+54193471,133088,Echinopora lamellosa,9.8.1,Outer Reef Channel,,,Suitable
+54194183,133090,Leptastrea purpurea,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54194183,133090,Leptastrea purpurea,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54194183,133090,Leptastrea purpurea,9.8.4,Lagoon,,,Suitable
+54194183,133090,Leptastrea purpurea,9.8.1,Outer Reef Channel,,,Suitable
+54194183,133090,Leptastrea purpurea,9.8.6,Inter-Reef Rubble Substrate,,,Suitable
+54194183,133090,Leptastrea purpurea,9.8.2,Back Slope,,,Suitable
+54199574,133117,Montipora lobulata,9.8.4,Lagoon,,,Suitable
+54199574,133117,Montipora lobulata,9.8.1,Outer Reef Channel,,,Suitable
+54199574,133117,Montipora lobulata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54199574,133117,Montipora lobulata,9.8.2,Back Slope,,,Suitable
+54200688,133132,Acropora aspera,9.8.4,Lagoon,,,Suitable
+54200688,133132,Acropora aspera,9.8.2,Back Slope,,,Suitable
+54200688,133132,Acropora aspera,9.8.3,Foreslope (Outer Reef Slope),,,Marginal
+54201246,133136,Favia marshae,9.8.4,Lagoon,,,Suitable
+54201246,133136,Favia marshae,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54201246,133136,Favia marshae,9.8.2,Back Slope,,,Suitable
+54201666,133137,Astreopora scabra,9.8.4,Lagoon,,,Suitable
+54201666,133137,Astreopora scabra,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54201666,133137,Astreopora scabra,9.8.2,Back Slope,,,Suitable
+54202066,133139,Isopora palifera,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54202066,133139,Isopora palifera,9.8.4,Lagoon,,,Suitable
+54202066,133139,Isopora palifera,9.8.2,Back Slope,,,Suitable
+54205621,133167,Cyphastrea serailia,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54205621,133167,Cyphastrea serailia,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54205621,133167,Cyphastrea serailia,9.8.1,Outer Reef Channel,,,Suitable
+54205621,133167,Cyphastrea serailia,9.8.5,Inter-Reef Soft Substrate,,,Suitable
+54205621,133167,Cyphastrea serailia,9.8.2,Back Slope,,,Suitable
+54205621,133167,Cyphastrea serailia,9.8.6,Inter-Reef Rubble Substrate,,,Suitable
+54205621,133167,Cyphastrea serailia,9.8.4,Lagoon,,,Suitable
+54207651,133175,Montipora efflorescens,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54207651,133175,Montipora efflorescens,9.8.4,Lagoon,,,Suitable
+54207651,133175,Montipora efflorescens,9.8.2,Back Slope,,,Suitable
+54207651,133175,Montipora efflorescens,9.8.1,Outer Reef Channel,,,Marginal
+54209005,133186,Montipora floweri,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54209005,133186,Montipora floweri,9.8.4,Lagoon,,,Suitable
+54209005,133186,Montipora floweri,9.8.1,Outer Reef Channel,,,Marginal
+54209005,133186,Montipora floweri,9.8.2,Back Slope,,,Suitable
+54211359,133200,Oulophyllia crispa,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54211359,133200,Oulophyllia crispa,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54211359,133200,Oulophyllia crispa,9.8.2,Back Slope,,,Suitable
+54211359,133200,Oulophyllia crispa,9.8.4,Lagoon,,,Suitable
+54212697,133203,Acropora tenella,9.8.4,Lagoon,,,Suitable
+54212697,133203,Acropora tenella,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54213777,133209,Favites pentagona,9.8.4,Lagoon,,,Suitable
+54213777,133209,Favites pentagona,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54213777,133209,Favites pentagona,9.8.2,Back Slope,,,Suitable
+54213777,133209,Favites pentagona,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54213777,133209,Favites pentagona,9.8.1,Outer Reef Channel,,,Suitable
+54214470,133214,Astreopora eliptica,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+54216304,133220,Montipora caliculata,9.8.4,Lagoon,,,Suitable
+54216304,133220,Montipora caliculata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54216304,133220,Montipora caliculata,9.8.2,Back Slope,,,Suitable
+54216304,133220,Montipora caliculata,9.8.1,Outer Reef Channel,,,Marginal
+54218331,133231,Diploastrea heliopora,9.8.4,Lagoon,,,Suitable
+54218331,133231,Diploastrea heliopora,9.8.2,Back Slope,,,Suitable
+54218331,133231,Diploastrea heliopora,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54218331,133231,Diploastrea heliopora,9.8.1,Outer Reef Channel,,,Suitable
+54219368,133239,Acropora nasuta,9.8.2,Back Slope,,,Suitable
+54219368,133239,Acropora nasuta,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54219368,133239,Acropora nasuta,9.8.4,Lagoon,,,Suitable
+54221512,133244,Favites flexuosa,9.8.1,Outer Reef Channel,,,Suitable
+54221512,133244,Favites flexuosa,9.8.2,Back Slope,,,Suitable
+54221512,133244,Favites flexuosa,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54221512,133244,Favites flexuosa,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54221512,133244,Favites flexuosa,9.8.4,Lagoon,,,Suitable
+54222944,133248,Acropora robusta,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54223617,133250,Acropora digitifera,9.8.2,Back Slope,,,Suitable
+54223617,133250,Acropora digitifera,9.8.4,Lagoon,,,Suitable
+54223617,133250,Acropora digitifera,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54226156,133267,Astreopora listeri,9.8.4,Lagoon,,,Marginal
+54226156,133267,Astreopora listeri,9.8.2,Back Slope,,,Suitable
+54226156,133267,Astreopora listeri,9.8.3,Foreslope (Outer Reef Slope),,,Marginal
+54227968,133284,Plesiastrea versipora,9.8.4,Lagoon,,,Suitable
+54227968,133284,Plesiastrea versipora,9.8.1,Outer Reef Channel,,,Marginal
+54227968,133284,Plesiastrea versipora,9.8.2,Back Slope,,,Suitable
+54227968,133284,Plesiastrea versipora,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54227968,133284,Plesiastrea versipora,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54229155,133290,Favites abdita,9.8.1,Outer Reef Channel,,,Suitable
+54229155,133290,Favites abdita,9.8.6,Inter-Reef Rubble Substrate,,,Marginal
+54229155,133290,Favites abdita,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54229155,133290,Favites abdita,9.8.2,Back Slope,,,Suitable
+54229155,133290,Favites abdita,9.8.4,Lagoon,,,Suitable
+54229155,133290,Favites abdita,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54229881,133291,Acropora striata,9.8.2,Back Slope,,,Suitable
+54229881,133291,Acropora striata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54230315,133292,Astreopora myriophthalma,9.8.4,Lagoon,,,Suitable
+54230315,133292,Astreopora myriophthalma,9.8.2,Back Slope,,,Suitable
+54230315,133292,Astreopora myriophthalma,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54231035,133293,Acropora valida,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54231035,133293,Acropora valida,9.8.4,Lagoon,,,Suitable
+54231035,133293,Acropora valida,9.8.2,Back Slope,,,Suitable
+54232334,133302,Astreopora gracilis,9.8.2,Back Slope,,,Suitable
+54232334,133302,Astreopora gracilis,9.8.4,Lagoon,,,Suitable
+54232334,133302,Astreopora gracilis,9.8.3,Foreslope (Outer Reef Slope),,,Marginal
+54232897,133303,Acropora lutkeni,9.8.4,Lagoon,,,Suitable
+54232897,133303,Acropora lutkeni,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54232897,133303,Acropora lutkeni,9.8.2,Back Slope,,,Suitable
+54234087,133305,Montipora verrilli,9.8.1,Outer Reef Channel,,,Suitable
+54234087,133305,Montipora verrilli,9.8.2,Back Slope,,,Marginal
+54234087,133305,Montipora verrilli,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54234087,133305,Montipora verrilli,9.8.4,Lagoon,,,Marginal
+54235037,133314,Montipora aequituberculata,9.8.4,Lagoon,,,Suitable
+54235037,133314,Montipora aequituberculata,9.8.1,Outer Reef Channel,,,Marginal
+54235037,133314,Montipora aequituberculata,9.8.2,Back Slope,,,Suitable
+54235037,133314,Montipora aequituberculata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54235037,133314,Montipora aequituberculata,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54235770,133315,Acropora monticulosa,9.8.4,Lagoon,,,Suitable
+54235770,133315,Acropora monticulosa,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54235770,133315,Acropora monticulosa,9.8.2,Back Slope,,,Suitable
+54236356,133324,Acropora gemmifera,9.8.2,Back Slope,,,Suitable
+54236356,133324,Acropora gemmifera,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54236356,133324,Acropora gemmifera,9.8.4,Lagoon,,,Suitable
+54237016,133325,Cyphastrea chalcidicum,9.8.6,Inter-Reef Rubble Substrate,,,Suitable
+54237016,133325,Cyphastrea chalcidicum,9.8.1,Outer Reef Channel,,,Suitable
+54237016,133325,Cyphastrea chalcidicum,9.8.4,Lagoon,,,Suitable
+54237016,133325,Cyphastrea chalcidicum,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54237016,133325,Cyphastrea chalcidicum,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54237016,133325,Cyphastrea chalcidicum,9.8.5,Inter-Reef Soft Substrate,,,Suitable
+54237016,133325,Cyphastrea chalcidicum,9.8.2,Back Slope,,,Suitable
+54239745,133331,Millepora tuberosa,9.8,Marine Neritic - Coral Reef,,,Suitable
+54241411,133343,Favites russelli,9.8.2,Back Slope,,,Suitable
+54241411,133343,Favites russelli,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54241411,133343,Favites russelli,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54241411,133343,Favites russelli,9.8.4,Lagoon,,,Suitable
+54241411,133343,Favites russelli,9.8.6,Inter-Reef Rubble Substrate,,,Marginal
+54241411,133343,Favites russelli,9.8.1,Outer Reef Channel,,,Marginal
+54242092,133345,Montipora tuberculosa,9.8.4,Lagoon,,,Suitable
+54242092,133345,Montipora tuberculosa,9.8.6,Inter-Reef Rubble Substrate,,,Marginal
+54242092,133345,Montipora tuberculosa,9.8.1,Outer Reef Channel,,,Suitable
+54242092,133345,Montipora tuberculosa,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54242092,133345,Montipora tuberculosa,9.8.2,Back Slope,,,Suitable
+54242092,133345,Montipora tuberculosa,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54246041,133365,Goniastrea edwardsi,9.8.2,Back Slope,,,Suitable
+54246041,133365,Goniastrea edwardsi,9.8.1,Outer Reef Channel,,,Suitable
+54246041,133365,Goniastrea edwardsi,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54246041,133365,Goniastrea edwardsi,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54246041,133365,Goniastrea edwardsi,9.8.6,Inter-Reef Rubble Substrate,,,Marginal
+54246041,133365,Goniastrea edwardsi,9.8.4,Lagoon,,,Suitable
+54249305,133383,Barabattoia laddi,9.8.4,Lagoon,,,Suitable
+54249305,133383,Barabattoia laddi,9.8.3,Foreslope (Outer Reef Slope),,,Marginal
+54249305,133383,Barabattoia laddi,9.8.2,Back Slope,,,Marginal
+54250269,133387,Acropora globiceps,9.8.2,Back Slope,,,Suitable
+54250269,133387,Acropora globiceps,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54251763,133393,Acropora teres,9.8,Marine Neritic - Coral Reef,Yes,,Suitable
+54255764,133414,Goniastrea pectinata,9.8.1,Outer Reef Channel,,,Suitable
+54255764,133414,Goniastrea pectinata,9.8.6,Inter-Reef Rubble Substrate,,,Marginal
+54255764,133414,Goniastrea pectinata,9.8.2,Back Slope,,,Suitable
+54255764,133414,Goniastrea pectinata,9.8.4,Lagoon,,,Suitable
+54255764,133414,Goniastrea pectinata,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54255764,133414,Goniastrea pectinata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54256450,133415,Anacropora puertogalerae,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54256450,133415,Anacropora puertogalerae,9.8.5,Inter-Reef Soft Substrate,,,Suitable
+54256450,133415,Anacropora puertogalerae,9.8.4,Lagoon,,,Marginal
+54258298,133420,Montipora grisea,9.8.4,Lagoon,,,Suitable
+54258298,133420,Montipora grisea,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54258298,133420,Montipora grisea,9.8.2,Back Slope,,,Suitable
+54259526,133426,Favia danae,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54259526,133426,Favia danae,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54259526,133426,Favia danae,9.8.2,Back Slope,,,Suitable
+54259526,133426,Favia danae,9.8.5,Inter-Reef Soft Substrate,,,Suitable
+54259526,133426,Favia danae,9.8.4,Lagoon,,,Suitable
+54260807,133438,Montipora foveolata,9.8.2,Back Slope,,,Marginal
+54260807,133438,Montipora foveolata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54260807,133438,Montipora foveolata,9.8.4,Lagoon,,,Marginal
+54260807,133438,Montipora foveolata,9.8.1,Outer Reef Channel,,,Marginal
+54261428,133440,Platygyra pini,9.8.4,Lagoon,,,Suitable
+54261428,133440,Platygyra pini,9.8.2,Back Slope,,,Suitable
+54261428,133440,Platygyra pini,9.8.1,Outer Reef Channel,,,Marginal
+54261428,133440,Platygyra pini,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54261428,133440,Platygyra pini,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54262745,133451,Montipora danae,9.8.2,Back Slope,,,Suitable
+54262745,133451,Montipora danae,9.8.1,Outer Reef Channel,,,Suitable
+54262745,133451,Montipora danae,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54262745,133451,Montipora danae,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54262745,133451,Montipora danae,9.8.4,Lagoon,,,Suitable
+54263428,133452,Goniastrea aspera,9.8.4,Lagoon,,,Suitable
+54263428,133452,Goniastrea aspera,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54263428,133452,Goniastrea aspera,9.8.1,Outer Reef Channel,,,Suitable
+54263428,133452,Goniastrea aspera,9.8.2,Back Slope,,,Suitable
+54263428,133452,Goniastrea aspera,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54266755,133463,Acropora aculeus,9.8.4,Lagoon,,,Suitable
+54266755,133463,Acropora aculeus,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54266755,133463,Acropora aculeus,9.8.6,Inter-Reef Rubble Substrate,,,Marginal
+54267376,133468,Platygyra daedalea,9.8.1,Outer Reef Channel,,,Marginal
+54267376,133468,Platygyra daedalea,9.8.4,Lagoon,,,Suitable
+54267376,133468,Platygyra daedalea,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54267376,133468,Platygyra daedalea,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54267376,133468,Platygyra daedalea,9.8.2,Back Slope,,,Suitable
+54271187,133485,Astreopora randalli,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54271187,133485,Astreopora randalli,9.8.2,Back Slope,,,Suitable
+54271187,133485,Astreopora randalli,9.8.4,Lagoon,,,Suitable
+54272181,133491,Oulophyllia levis,9.8.2,Back Slope,,,Suitable
+54272181,133491,Oulophyllia levis,9.8.4,Lagoon,,,Suitable
+54272181,133491,Oulophyllia levis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54273347,133493,Platygyra ryukyuensis,9.8.4,Lagoon,,,Suitable
+54273347,133493,Platygyra ryukyuensis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54273347,133493,Platygyra ryukyuensis,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54273347,133493,Platygyra ryukyuensis,9.8.2,Back Slope,,,Suitable
+54276445,133516,Favia truncatus,9.8.1,Outer Reef Channel,,,Suitable
+54276445,133516,Favia truncatus,9.8.2,Back Slope,,,Suitable
+54276445,133516,Favia truncatus,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54276445,133516,Favia truncatus,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Marginal
+54276445,133516,Favia truncatus,9.8.4,Lagoon,,,Suitable
+54277592,133525,Montipora monasteriata,9.8.2,Back Slope,,,Suitable
+54277592,133525,Montipora monasteriata,9.8.1,Outer Reef Channel,,,Suitable
+54277592,133525,Montipora monasteriata,9.8.4,Lagoon,,,Suitable
+54277592,133525,Montipora monasteriata,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54277592,133525,Montipora monasteriata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54278678,133531,Acropora palmerae,9.8.2,Back Slope,,,Suitable
+54278678,133531,Acropora palmerae,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54278678,133531,Acropora palmerae,9.8.4,Lagoon,,,Suitable
+54279224,133532,Acropora verweyi,9.8.2,Back Slope,,,Suitable
+54279224,133532,Acropora verweyi,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54285344,133560,Goniastrea palauensis,9.8.4,Lagoon,,,Suitable
+54285344,133560,Goniastrea palauensis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54285344,133560,Goniastrea palauensis,9.8.2,Back Slope,,,Suitable
+54286783,133569,Favia favus,9.8.6,Inter-Reef Rubble Substrate,,,Marginal
+54286783,133569,Favia favus,9.8.1,Outer Reef Channel,,,Suitable
+54286783,133569,Favia favus,9.8.4,Lagoon,,,Suitable
+54286783,133569,Favia favus,9.8.2,Back Slope,,,Suitable
+54286783,133569,Favia favus,9.8.5,Inter-Reef Soft Substrate,,,Suitable
+54286783,133569,Favia favus,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54286783,133569,Favia favus,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54288231,133576,Acropora cerealis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54288231,133576,Acropora cerealis,9.8.2,Back Slope,,,Suitable
+54288231,133576,Acropora cerealis,9.8.4,Lagoon,,,Suitable
+54290854,133593,Favia stelligera,9.8.4,Lagoon,,,Marginal
+54290854,133593,Favia stelligera,9.8.1,Outer Reef Channel,,,Suitable
+54290854,133593,Favia stelligera,9.8.2,Back Slope,,,Suitable
+54290854,133593,Favia stelligera,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54290854,133593,Favia stelligera,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54291558,133601,Favia helianthoides,9.8.4,Lagoon,,,Suitable
+54291558,133601,Favia helianthoides,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54291558,133601,Favia helianthoides,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54291558,133601,Favia helianthoides,9.8.2,Back Slope,,,Suitable
+54291558,133601,Favia helianthoides,9.8.1,Outer Reef Channel,,,Marginal
+54293583,133616,Favia matthaii,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54293583,133616,Favia matthaii,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54293583,133616,Favia matthaii,9.8.2,Back Slope,,,Suitable
+54293583,133616,Favia matthaii,9.8.1,Outer Reef Channel,,,Suitable
+54293583,133616,Favia matthaii,9.8.4,Lagoon,,,Suitable
+54294296,133628,Cyphastrea agassizi,9.8.1,Outer Reef Channel,,,Marginal
+54294296,133628,Cyphastrea agassizi,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54294296,133628,Cyphastrea agassizi,9.8.2,Back Slope,,,Suitable
+54294296,133628,Cyphastrea agassizi,9.8.4,Lagoon,,,Suitable
+54295467,133634,Goniastrea retiformis,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54295467,133634,Goniastrea retiformis,9.8.4,Lagoon,,,Suitable
+54295467,133634,Goniastrea retiformis,9.8.1,Outer Reef Channel,,,Suitable
+54295467,133634,Goniastrea retiformis,9.8.2,Back Slope,,,Suitable
+54295467,133634,Goniastrea retiformis,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54296140,133635,Montipora venosa,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54296140,133635,Montipora venosa,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54296140,133635,Montipora venosa,9.8.4,Lagoon,,,Suitable
+54296140,133635,Montipora venosa,9.8.2,Back Slope,,,Suitable
+54296140,133635,Montipora venosa,9.8.1,Outer Reef Channel,,,Suitable
+54297382,133638,Favia maritima,9.8.3,Foreslope (Outer Reef Slope),,,Marginal
+54297382,133638,Favia maritima,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54297382,133638,Favia maritima,9.8.5,Inter-Reef Soft Substrate,,,Suitable
+54297382,133638,Favia maritima,9.8.4,Lagoon,,,Suitable
+54297382,133638,Favia maritima,9.8.2,Back Slope,,,Suitable
+54299282,133644,Acropora formosa,9.8.2,Back Slope,,,Suitable
+54299282,133644,Acropora formosa,9.8.4,Lagoon,,,Suitable
+54299282,133644,Acropora formosa,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54299282,133644,Acropora formosa,9.8.5,Inter-Reef Soft Substrate,,,Marginal
+54299989,133646,Montipora verrucosa,9.8.4,Lagoon,,,Suitable
+54299989,133646,Montipora verrucosa,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54299989,133646,Montipora verrucosa,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54299989,133646,Montipora verrucosa,9.8.1,Outer Reef Channel,,,Marginal
+54299989,133646,Montipora verrucosa,9.8.2,Back Slope,,,Suitable
+54300728,133648,Cyphastrea microphthalma,9.8.5,Inter-Reef Soft Substrate,,,Suitable
+54300728,133648,Cyphastrea microphthalma,9.8.6,Inter-Reef Rubble Substrate,,,Suitable
+54300728,133648,Cyphastrea microphthalma,9.8.4,Lagoon,,,Suitable
+54300728,133648,Cyphastrea microphthalma,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54300728,133648,Cyphastrea microphthalma,9.8.1,Outer Reef Channel,,,Suitable
+54300728,133648,Cyphastrea microphthalma,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54300728,133648,Cyphastrea microphthalma,9.8.2,Back Slope,,,Suitable
+54301475,133649,Acropora abrotanoides,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54301475,133649,Acropora abrotanoides,9.8.2,Back Slope,,,Marginal
+54302167,133652,Leptastrea transversa,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54302167,133652,Leptastrea transversa,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54302167,133652,Leptastrea transversa,9.8.2,Back Slope,,,Suitable
+54302167,133652,Leptastrea transversa,9.8.6,Inter-Reef Rubble Substrate,,,Marginal
+54302167,133652,Leptastrea transversa,9.8.1,Outer Reef Channel,,,Marginal
+54302167,133652,Leptastrea transversa,9.8.4,Lagoon,,,Suitable
+54302913,133658,Acropora bifurcata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54303355,133660,Isopora cuneata,9.8.4,Lagoon,,,Suitable
+54303355,133660,Isopora cuneata,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54303355,133660,Isopora cuneata,9.8.2,Back Slope,,,Suitable
+54304631,133666,Acropora millepora,9.8.4,Lagoon,,,Suitable
+54304631,133666,Acropora millepora,9.8.2,Back Slope,,,Suitable
+54304631,133666,Acropora millepora,9.8.3,Foreslope (Outer Reef Slope),,,Marginal
+54307611,133700,Montipora hoffmeisteri,9.8.2,Back Slope,,,Marginal
+54307611,133700,Montipora hoffmeisteri,9.8.1,Outer Reef Channel,,,Marginal
+54307611,133700,Montipora hoffmeisteri,9.8.3,Foreslope (Outer Reef Slope),,,Suitable
+54307611,133700,Montipora hoffmeisteri,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+54307611,133700,Montipora hoffmeisteri,9.8.4,Lagoon,,,Suitable
+964020,163017,Heterololigo bleekeri,10.1,Marine Oceanic - Epipelagic (0-200m),,,Suitable
+964020,163017,Heterololigo bleekeri,9.7,Marine Neritic - Macroalgal/Kelp,,,Suitable
+964020,163017,Heterololigo bleekeri,9.6,Marine Neritic - Subtidal Muddy,,,Suitable
+964020,163017,Heterololigo bleekeri,9.5,Marine Neritic - Subtidal Sandy-Mud,,,Suitable
+964020,163017,Heterololigo bleekeri,9.4,Marine Neritic - Subtidal Sandy,,,Suitable
+964020,163017,Heterololigo bleekeri,9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,,,Suitable
+964020,163017,Heterololigo bleekeri,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+964020,163017,Heterololigo bleekeri,9.1,Marine Neritic - Pelagic,,,Suitable
+149768986,21309,Tachypleus tridentatus,12.4,Marine Intertidal - Mud Flats and Salt Flats,Yes,Non-Breeding Season,Suitable
+149768986,21309,Tachypleus tridentatus,12.3,Marine Intertidal - Shingle and/or Pebble Shoreline and/or Beaches,Yes,Breeding Season,Suitable
+149768986,21309,Tachypleus tridentatus,12.2,"Marine Intertidal - Sandy Shoreline and/or Beaches, Sand Bars, Spits, Etc",Yes,Breeding Season,Suitable
+149768986,21309,Tachypleus tridentatus,9.10,Marine Neritic - Estuaries,Yes,Non-Breeding Season,Suitable
+149768986,21309,Tachypleus tridentatus,9.5,Marine Neritic - Subtidal Sandy-Mud,Yes,Non-Breeding Season,Suitable
+149768986,21309,Tachypleus tridentatus,9.4,Marine Neritic - Subtidal Sandy,Yes,Non-Breeding Season,Suitable
+149768986,21309,Tachypleus tridentatus,9.1,Marine Neritic - Pelagic,Yes,Non-Breeding Season,Suitable

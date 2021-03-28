@@ -1,0 +1,8 @@
+assessmentId,internalTaxonId,scientificName,code,name,stressCode,stressName,ancestry,ias,internationalTrade,scope,severity,text,timing,virus
+1616879,180337,Actinopyga mauritiana,5.4.2,Intentional use: (large scale) [harvest],2.1,Species mortality,,,,,,,Ongoing,
+1616879,180337,Actinopyga mauritiana,5.4.1,Intentional use: (subsistence/small scale) [harvest],2.1,Species mortality,,,,,,,Ongoing,
+178341498,178290276,Pycnopodia helianthoides,5.4.4,Unintentional effects: (large scale) [harvest],1.2|2.1|2.2,Ecosystem degradation|Species mortality|Species disturbance,,,,Minority (<50%),Causing/Could cause fluctuations,,Ongoing,
+178341498,178290276,Pycnopodia helianthoides,11.3,Temperature extremes,2.1,Species mortality,,,,Majority (50-90%),Causing/Could cause fluctuations,,Ongoing,
+178341498,178290276,Pycnopodia helianthoides,5.4.1,Intentional use: (subsistence/small scale) [harvest],2.1,Species mortality,,,,Unknown,Unknown,,Ongoing,
+178341498,178290276,Pycnopodia helianthoides,8.6,Diseases of unknown cause,2.1,Species mortality,,,,Whole (>90%),Very Rapid Declines,"This species is affected by Sea Star Wasting Syndrome, the etiology of which is unknown.",Ongoing,
+178341498,178290276,Pycnopodia helianthoides,5.3.3,Unintentional effects: (subsistence/small scale) [harvest],1.2|2.1|2.2,Ecosystem degradation|Species mortality|Species disturbance,,,,Unknown,Unknown,,Ongoing,

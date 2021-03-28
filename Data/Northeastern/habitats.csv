@@ -1,0 +1,21 @@
+assessmentId,internalTaxonId,scientificName,code,name,majorImportance,season,suitability
+1616879,180337,Actinopyga mauritiana,9.8.1,Outer Reef Channel,,,Suitable
+1616879,180337,Actinopyga mauritiana,9.8.2,Back Slope,,,Suitable
+1616879,180337,Actinopyga mauritiana,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,,,Suitable
+1616879,180337,Actinopyga mauritiana,10.1,Marine Oceanic - Epipelagic (0-200m),,,Suitable
+1616879,180337,Actinopyga mauritiana,9.8.3,Foreslope (Outer Reef Slope),,,Marginal
+1616879,180337,Actinopyga mauritiana,9.8.4,Lagoon,,,Suitable
+1616879,180337,Actinopyga mauritiana,9.8.5,Inter-Reef Soft Substrate,,,Suitable
+1616879,180337,Actinopyga mauritiana,9.9,Marine Neritic - Seagrass (Submerged),,,Suitable
+178341498,178290276,Pycnopodia helianthoides,11.1.1,Hard Substrate,,Resident,Marginal
+178341498,178290276,Pycnopodia helianthoides,15.11,Artificial/Marine - Marine Anthropogenic Structures,No,Resident,Suitable
+178341498,178290276,Pycnopodia helianthoides,11.1.2,Soft Substrate,,Resident,Marginal
+178341498,178290276,Pycnopodia helianthoides,9.9,Marine Neritic - Seagrass (Submerged),Yes,Resident,Suitable
+178341498,178290276,Pycnopodia helianthoides,12.1,Marine Intertidal - Rocky Shoreline,,Resident,Marginal
+178341498,178290276,Pycnopodia helianthoides,12.6,Marine Intertidal - Tidepools,,Resident,Marginal
+178341498,178290276,Pycnopodia helianthoides,9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Yes,Resident,Suitable
+178341498,178290276,Pycnopodia helianthoides,9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Yes,Resident,Suitable
+178341498,178290276,Pycnopodia helianthoides,9.4,Marine Neritic - Subtidal Sandy,Yes,Resident,Suitable
+178341498,178290276,Pycnopodia helianthoides,9.5,Marine Neritic - Subtidal Sandy-Mud,Yes,Resident,Suitable
+178341498,178290276,Pycnopodia helianthoides,9.6,Marine Neritic - Subtidal Muddy,Yes,Resident,Suitable
+178341498,178290276,Pycnopodia helianthoides,9.7,Marine Neritic - Macroalgal/Kelp,Yes,Resident,Suitable

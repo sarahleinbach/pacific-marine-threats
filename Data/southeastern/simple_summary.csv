@@ -1,0 +1,32 @@
+assessmentId,internalTaxonId,scientificName,kingdomName,phylumName,orderName,className,familyName,genusName,speciesName,infraType,infraName,infraAuthority,authority,redlistCategory,redlistCriteria,criteriaVersion,populationTrend,scopes
+1621878,180373,Isostichopus fuscus,ANIMALIA,ECHINODERMATA,ASPIDOCHIROTIDA,HOLOTHUROIDEA,STICHOPODIDAE,Isostichopus,fuscus,,,,"(Ludwig, 1875)",Endangered,A2bd,3.1,Decreasing,Global
+3503904,132944,Montipora nodosa,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,ACROPORIDAE,Montipora,nodosa,,,,"(Dana, 1846)",Near Threatened,,3.1,Decreasing,Global
+3578932,133120,Acropora latistella,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,ACROPORIDAE,Acropora,latistella,,,,"(Brook, 1891)",Least Concern,,3.1,Decreasing,Global
+3625707,133196,Montipora incrassata,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,ACROPORIDAE,Montipora,incrassata,,,,"(Dana, 1846)",Near Threatened,,3.1,Decreasing,Global
+3667540,133278,Leptastrea pruinosa,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,FAVIIDAE,Leptastrea,pruinosa,,,,"Crossland, 1952",Least Concern,,3.1,Decreasing,Global
+3743106,133433,Montipora crassituberculata,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,ACROPORIDAE,Montipora,crassituberculata,,,,"Bernard, 1897",Vulnerable,A4c,3.1,Decreasing,Global
+3748279,133443,Montipora australiensis,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,ACROPORIDAE,Montipora,australiensis,,,,"Bernard, 1897",Vulnerable,A4ce,3.1,Decreasing,Global
+3765052,133479,Acropora hyacinthus,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,ACROPORIDAE,Acropora,hyacinthus,,,,"(Dana, 1846)",Near Threatened,,3.1,Decreasing,Global
+3862790,133682,Acropora subulata,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,ACROPORIDAE,Acropora,subulata,,,,"(Dana, 1846)",Least Concern,,3.1,Decreasing,Global
+12683468,63579,Rhizopsammia wellingtoni,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,DENDROPHYLLIIDAE,Rhizopsammia,wellingtoni,,,,"Wells, 1982",Critically Endangered,A2a; B1ab(i)+2ab(i),3.1,Decreasing,Global
+12683651,63580,Tubastraea floreana,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,DENDROPHYLLIIDAE,Tubastraea,floreana,,,,"Wells, 1982",Critically Endangered,A2a,3.1,Decreasing,Global
+54154226,132883,Goniastrea australensis,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,FAVIIDAE,Goniastrea,australensis,,,,"(Milne Edwards &amp; Haime, 1857)",Least Concern,,3.1,Decreasing,Global
+54161679,132922,Montastrea curta,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,FAVIIDAE,Montastrea,curta,,,,"(Dana, 1846)",Least Concern,,3.1,Decreasing,Global
+54168256,132969,Acropora listeri,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,ACROPORIDAE,Acropora,listeri,,,,"(Brook, 1893)",Vulnerable,A4ce,3.1,Decreasing,Global
+54174146,132998,Acropora samoensis,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,ACROPORIDAE,Acropora,samoensis,,,,"(Brook, 1891)",Least Concern,,3.1,Decreasing,Global
+54177921,133021,Acropora microphthalma,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,ACROPORIDAE,Acropora,microphthalma,,,,"(Verrill, 1859)",Least Concern,,3.1,Decreasing,Global
+54181084,133029,Favia rotumana,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,FAVIIDAE,Favia,rotumana,,,,"(Gardiner, 1899)",Least Concern,,3.1,Decreasing,Global
+54194183,133090,Leptastrea purpurea,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,FAVIIDAE,Leptastrea,purpurea,,,,"(Dana, 1846)",Least Concern,,3.1,Decreasing,Global
+54216304,133220,Montipora caliculata,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,ACROPORIDAE,Montipora,caliculata,,,,"(Dana, 1846)",Vulnerable,A4ce,3.1,Decreasing,Global
+54219368,133239,Acropora nasuta,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,ACROPORIDAE,Acropora,nasuta,,,,"(Dana, 1846)",Near Threatened,,3.1,Decreasing,Global
+54222944,133248,Acropora robusta,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,ACROPORIDAE,Acropora,robusta,,,,"(Dana, 1846)",Least Concern,,3.1,Decreasing,Global
+54227968,133284,Plesiastrea versipora,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,FAVIIDAE,Plesiastrea,versipora,,,,"(Lamarck, 1816)",Least Concern,,3.1,Decreasing,Global
+54230315,133292,Astreopora myriophthalma,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,ACROPORIDAE,Astreopora,myriophthalma,,,,"(Lamarck, 1816)",Least Concern,,3.1,Decreasing,Global
+54231035,133293,Acropora valida,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,ACROPORIDAE,Acropora,valida,,,,"(Dana, 1846)",Least Concern,,3.1,Decreasing,Global
+54232897,133303,Acropora lutkeni,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,ACROPORIDAE,Acropora,lutkeni,,,,"Crossland, 1952",Near Threatened,,3.1,Decreasing,Global
+54258298,133420,Montipora grisea,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,ACROPORIDAE,Montipora,grisea,,,,"Bernard, 1897",Least Concern,,3.1,Decreasing,Global
+54260807,133438,Montipora foveolata,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,ACROPORIDAE,Montipora,foveolata,,,,"(Dana, 1846)",Near Threatened,,3.1,Decreasing,Global
+54290854,133593,Favia stelligera,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,FAVIIDAE,Favia,stelligera,,,,"(Dana, 1846)",Near Threatened,,3.1,Decreasing,Global
+54293583,133616,Favia matthaii,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,FAVIIDAE,Favia,matthaii,,,,"Vaughan, 1918",Near Threatened,,3.1,Decreasing,Global
+54299989,133646,Montipora verrucosa,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,ACROPORIDAE,Montipora,verrucosa,,,,"(Lamarck, 1816)",Least Concern,,3.1,Decreasing,Global
+54302167,133652,Leptastrea transversa,ANIMALIA,CNIDARIA,SCLERACTINIA,ANTHOZOA,FAVIIDAE,Leptastrea,transversa,,,,"Klunzinger, 1879",Least Concern,,3.1,Decreasing,Global
