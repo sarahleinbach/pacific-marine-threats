@@ -1,0 +1,50 @@
+number of species: 31 
+Threats:
+fishing and harvesting aquatic resources: ( 29 species) (weight:0.9354838709677419)
+Acropora listeri, Leptastrea pruinosa, Favia rotumana, Acropora microphthalma, Favia matthaii, Favia stelligera, Montipora caliculata, Leptastrea purpurea, Isostichopus fuscus, Montipora grisea, Leptastrea transversa, Montipora nodosa, Montipora verrucosa, Montipora incrassata, Acropora lutkeni, Acropora subulata, Montipora foveolata, Montastrea curta, Acropora valida, Acropora latistella, Plesiastrea versipora, Montipora crassituberculata, Goniastrea australensis, Montipora australiensis, Astreopora myriophthalma, Acropora nasuta, Acropora samoensis, Acropora robusta, Acropora hyacinthus
+
+domestic and urban waste water: ( 29 species) (weight:0.9354838709677419)
+Acropora listeri, Leptastrea pruinosa, Favia rotumana, Acropora microphthalma, Favia matthaii, Favia stelligera, Montipora caliculata, Leptastrea purpurea, Isostichopus fuscus, Montipora grisea, Leptastrea transversa, Montipora nodosa, Montipora verrucosa, Montipora incrassata, Acropora lutkeni, Acropora subulata, Montipora foveolata, Montastrea curta, Acropora valida, Acropora latistella, Plesiastrea versipora, Montipora crassituberculata, Goniastrea australensis, Montipora australiensis, Astreopora myriophthalma, Acropora nasuta, Acropora samoensis, Acropora robusta, Acropora hyacinthus
+
+marine and freshwater aquaculture: ( 1 species) (weight:0.03225806451612903)
+Isostichopus fuscus
+
+airborne pollutants: ( 28 species) (weight:0.9032258064516129)
+Acropora listeri, Leptastrea pruinosa, Favia rotumana, Acropora microphthalma, Favia matthaii, Favia stelligera, Montipora caliculata, Leptastrea purpurea, Montipora grisea, Leptastrea transversa, Montipora nodosa, Montipora verrucosa, Montipora incrassata, Acropora lutkeni, Acropora subulata, Montipora foveolata, Montastrea curta, Acropora valida, Acropora latistella, Plesiastrea versipora, Montipora crassituberculata, Goniastrea australensis, Montipora australiensis, Astreopora myriophthalma, Acropora nasuta, Acropora samoensis, Acropora robusta, Acropora hyacinthus
+
+temperature extremes: ( 30 species) (weight:0.967741935483871)
+Acropora listeri, Leptastrea pruinosa, Favia rotumana, Acropora microphthalma, Favia matthaii, Favia stelligera, Rhizopsammia wellingtoni, Montipora caliculata, Leptastrea purpurea, Montipora grisea, Leptastrea transversa, Montipora nodosa, Montipora verrucosa, Montipora incrassata, Acropora lutkeni, Acropora subulata, Montipora foveolata, Montastrea curta, Acropora valida, Acropora latistella, Plesiastrea versipora, Montipora crassituberculata, Goniastrea australensis, Montipora australiensis, Astreopora myriophthalma, Acropora nasuta, Acropora samoensis, Acropora robusta, Tubastraea floreana, Acropora hyacinthus
+
+storms and flooding: ( 28 species) (weight:0.9032258064516129)
+Acropora listeri, Leptastrea pruinosa, Favia rotumana, Acropora microphthalma, Favia matthaii, Favia stelligera, Montipora caliculata, Leptastrea purpurea, Montipora grisea, Leptastrea transversa, Montipora nodosa, Montipora verrucosa, Montipora incrassata, Acropora lutkeni, Acropora subulata, Montipora foveolata, Montastrea curta, Acropora valida, Acropora latistella, Plesiastrea versipora, Montipora crassituberculata, Goniastrea australensis, Montipora australiensis, Astreopora myriophthalma, Acropora nasuta, Acropora samoensis, Acropora robusta, Acropora hyacinthus
+
+agricultural and forestry effluents: ( 28 species) (weight:0.9032258064516129)
+Acropora listeri, Leptastrea pruinosa, Favia rotumana, Acropora microphthalma, Favia matthaii, Favia stelligera, Montipora caliculata, Leptastrea purpurea, Montipora grisea, Leptastrea transversa, Montipora nodosa, Montipora verrucosa, Montipora incrassata, Acropora lutkeni, Acropora subulata, Montipora foveolata, Montastrea curta, Acropora valida, Acropora latistella, Plesiastrea versipora, Montipora crassituberculata, Goniastrea australensis, Montipora australiensis, Astreopora myriophthalma, Acropora nasuta, Acropora samoensis, Acropora robusta, Acropora hyacinthus
+
+commercial and industrial areas: ( 28 species) (weight:0.9032258064516129)
+Acropora listeri, Leptastrea pruinosa, Favia rotumana, Acropora microphthalma, Favia matthaii, Favia stelligera, Montipora caliculata, Leptastrea purpurea, Montipora grisea, Leptastrea transversa, Montipora nodosa, Montipora verrucosa, Montipora incrassata, Acropora lutkeni, Acropora subulata, Montipora foveolata, Montastrea curta, Acropora valida, Acropora latistella, Plesiastrea versipora, Montipora crassituberculata, Goniastrea australensis, Montipora australiensis, Astreopora myriophthalma, Acropora nasuta, Acropora samoensis, Acropora robusta, Acropora hyacinthus
+
+recreational activities: ( 28 species) (weight:0.9032258064516129)
+Acropora listeri, Leptastrea pruinosa, Favia rotumana, Acropora microphthalma, Favia matthaii, Favia stelligera, Montipora caliculata, Leptastrea purpurea, Montipora grisea, Leptastrea transversa, Montipora nodosa, Montipora verrucosa, Montipora incrassata, Acropora lutkeni, Acropora subulata, Montipora foveolata, Montastrea curta, Acropora valida, Acropora latistella, Plesiastrea versipora, Montipora crassituberculata, Goniastrea australensis, Montipora australiensis, Astreopora myriophthalma, Acropora nasuta, Acropora samoensis, Acropora robusta, Acropora hyacinthus
+
+industrial and military effluents: ( 28 species) (weight:0.9032258064516129)
+Acropora listeri, Leptastrea pruinosa, Favia rotumana, Acropora microphthalma, Favia matthaii, Favia stelligera, Montipora caliculata, Leptastrea purpurea, Montipora grisea, Leptastrea transversa, Montipora nodosa, Montipora verrucosa, Montipora incrassata, Acropora lutkeni, Acropora subulata, Montipora foveolata, Montastrea curta, Acropora valida, Acropora latistella, Plesiastrea versipora, Montipora crassituberculata, Goniastrea australensis, Montipora australiensis, Astreopora myriophthalma, Acropora nasuta, Acropora samoensis, Acropora robusta, Acropora hyacinthus
+
+invasive non native/alien species/diseases: ( 28 species) (weight:0.9032258064516129)
+Acropora listeri, Leptastrea pruinosa, Favia rotumana, Acropora microphthalma, Favia matthaii, Favia stelligera, Montipora caliculata, Leptastrea purpurea, Montipora grisea, Leptastrea transversa, Montipora nodosa, Montipora verrucosa, Montipora incrassata, Acropora lutkeni, Acropora subulata, Montipora foveolata, Montastrea curta, Acropora valida, Acropora latistella, Plesiastrea versipora, Montipora crassituberculata, Goniastrea australensis, Montipora australiensis, Astreopora myriophthalma, Acropora nasuta, Acropora samoensis, Acropora robusta, Acropora hyacinthus
+
+housing and urban areas: ( 28 species) (weight:0.9032258064516129)
+Acropora listeri, Leptastrea pruinosa, Favia rotumana, Acropora microphthalma, Favia matthaii, Favia stelligera, Montipora caliculata, Leptastrea purpurea, Montipora grisea, Leptastrea transversa, Montipora nodosa, Montipora verrucosa, Montipora incrassata, Acropora lutkeni, Acropora subulata, Montipora foveolata, Montastrea curta, Acropora valida, Acropora latistella, Plesiastrea versipora, Montipora crassituberculata, Goniastrea australensis, Montipora australiensis, Astreopora myriophthalma, Acropora nasuta, Acropora samoensis, Acropora robusta, Acropora hyacinthus
+
+tourism and recreation areas: ( 28 species) (weight:0.9032258064516129)
+Acropora listeri, Leptastrea pruinosa, Favia rotumana, Acropora microphthalma, Favia matthaii, Favia stelligera, Montipora caliculata, Leptastrea purpurea, Montipora grisea, Leptastrea transversa, Montipora nodosa, Montipora verrucosa, Montipora incrassata, Acropora lutkeni, Acropora subulata, Montipora foveolata, Montastrea curta, Acropora valida, Acropora latistella, Plesiastrea versipora, Montipora crassituberculata, Goniastrea australensis, Montipora australiensis, Astreopora myriophthalma, Acropora nasuta, Acropora samoensis, Acropora robusta, Acropora hyacinthus
+
+shipping lanes: ( 28 species) (weight:0.9032258064516129)
+Acropora listeri, Leptastrea pruinosa, Favia rotumana, Acropora microphthalma, Favia matthaii, Favia stelligera, Montipora caliculata, Leptastrea purpurea, Montipora grisea, Leptastrea transversa, Montipora nodosa, Montipora verrucosa, Montipora incrassata, Acropora lutkeni, Acropora subulata, Montipora foveolata, Montastrea curta, Acropora valida, Acropora latistella, Plesiastrea versipora, Montipora crassituberculata, Goniastrea australensis, Montipora australiensis, Astreopora myriophthalma, Acropora nasuta, Acropora samoensis, Acropora robusta, Acropora hyacinthus
+
+problematic native species/diseases: ( 28 species) (weight:0.9032258064516129)
+Acropora listeri, Leptastrea pruinosa, Favia rotumana, Acropora microphthalma, Favia matthaii, Favia stelligera, Montipora caliculata, Leptastrea purpurea, Montipora grisea, Leptastrea transversa, Montipora nodosa, Montipora verrucosa, Montipora incrassata, Acropora lutkeni, Acropora subulata, Montipora foveolata, Montastrea curta, Acropora valida, Acropora latistella, Plesiastrea versipora, Montipora crassituberculata, Goniastrea australensis, Montipora australiensis, Astreopora myriophthalma, Acropora nasuta, Acropora samoensis, Acropora robusta, Acropora hyacinthus
+
+other climate change and severe weather impacts: ( 2 species) (weight:0.06451612903225806)
+Rhizopsammia wellingtoni, Tubastraea floreana
+
