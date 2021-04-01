@@ -60,6 +60,7 @@ for region in region_list:
     threats = c.defaultdict(set)
     countries = c.defaultdict(set)
     species_set = set()
+    species_links = c.defaultdict(int)
     # tabulating all the species threatened by each threat
     with open(os.path.join(region_data_folder, "threats.csv"), mode='r') as csv_file:
         csv_reader = csv.DictReader(csv_file)
@@ -73,6 +74,7 @@ for region in region_list:
             my_code = m.group(1)
             threats[my_code].add(row["scientificName"])
             species_set.add(row["scientificName"])
+            species_links[row["scientificName"]] = species_links[row["scientificName"]]+1
     region_threat_dict[region] = threats
     region_species_dict[region] = species_set
 
@@ -101,6 +103,8 @@ for region in region_list:
     countries_dataframe = pd.DataFrame(list(zip(country_list, species_countlist, species_proportion_list)),
                       columns=['Country', 'Species', 'Proportion'])
     countries_dataframe.to_csv(os.path.join(region_data_folder, "countries_speciescount.csv"))
+    species_links_df = pd.DataFrame.from_dict(species_links, orient="index", columns=["Links"])
+    species_links_df.to_csv(os.path.join(region_data_folder, "species_links.csv"))
 
 g = igraph.Graph()
 for region in region_list:
