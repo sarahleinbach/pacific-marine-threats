@@ -105,6 +105,12 @@ for region in region_list:
     countries_dataframe.to_csv(os.path.join(region_data_folder, "countries_speciescount.csv"))
     species_links_df = pd.DataFrame.from_dict(species_links, orient="index", columns=["Links"])
     species_links_df.to_csv(os.path.join(region_data_folder, "species_links.csv"))
+    threat_count_pairs = [(x[0], len(x[1])) for x in threats.items()]
+    threats_list = [threat_dict[x[0]] for x in threat_count_pairs]
+    species_countlist = [x[1] for x in threat_count_pairs]
+    threat_counts_df = pd.DataFrame(list(zip(threats_list, species_countlist)),
+                                    columns=['Threat', 'Species Count'])
+    threat_counts_df.to_csv(os.path.join(region_data_folder, "threat_counts.csv"))
 
 g = igraph.Graph()
 for region in region_list:
@@ -122,124 +128,87 @@ layout = g.layout("circle")
 with open('threat_graph.graphml', mode ='w+') as outfile:
     igraph.Graph.write_graphml(g, outfile)
 
-# with open("antarctic_taxa.csv", mode='r') as csv_file:
-#     csv_reader = csv.DictReader(csv_file)
-#     line_count = 0
-#     for row in csv_reader:
-#         if line_count == 0:
-#             line_count += 1
-#         zone_taxa['Antarctica'].add(row['scientificName'])
-# with open("e_pacific_taxa.csv", mode='r') as csv_file:
-#     csv_reader = csv.DictReader(csv_file)
-#     line_count = 0
-#     for row in csv_reader:
-#         if line_count == 0:
-#             line_count += 1
-#         zone_taxa['East'].add(row['scientificName'])
-# with open("ne_pacific_taxa.csv", mode='r') as csv_file:
-#     csv_reader = csv.DictReader(csv_file)
-#     line_count = 0
-#     for row in csv_reader:
-#         if line_count == 0:
-#             line_count += 1
-#         zone_taxa['Northeast'].add(row['scientificName'])
-# with open("nw_pacific_taxa.csv", mode='r') as csv_file:
-#     csv_reader = csv.DictReader(csv_file)
-#     line_count = 0
-#     for row in csv_reader:
-#         if line_count == 0:
-#             line_count += 1
-#         zone_taxa['Northwest'].add(row['scientificName'])
-# with open("se_pacific_taxa.csv", mode='r') as csv_file:
-#     csv_reader = csv.DictReader(csv_file)
-#     line_count = 0
-#     for row in csv_reader:
-#         if line_count == 0:
-#             line_count += 1
-#         zone_taxa['Southeast'].add(row['scientificName'])
-# with open("sw_pacific_taxa.csv", mode='r') as csv_file:
-#     csv_reader = csv.DictReader(csv_file)
-#     line_count = 0
-#     for row in csv_reader:
-#         if line_count == 0:
-#             line_count += 1
-#         zone_taxa['Southwest'].add(row['scientificName'])
-# with open("w_pacific_taxa.csv", mode='r') as csv_file:
-#     csv_reader = csv.DictReader(csv_file)
-#     line_count = 0
-#     for row in csv_reader:
-#         if line_count == 0:
-#             line_count += 1
-#         zone_taxa['West'].add(row['scientificName'])
-#
-# zone_threats = {}
-#
-# for zone in zone_taxa:
-#     for threat in threats:
-#         if zone not in zone_threats:
-#             zone_threats[zone] = {}
-#         if threat not in zone_threats[zone]:
-#             zone_threats[zone][threat] = 0
-#         for species in zone_taxa[zone]:
-#             if species in threats[threat]:
-#                 zone_threats[zone][threat] = zone_threats[zone][threat] + 1
-#
-# with open("zone_threats.txt", mode='w+') as outfile:
-#     for zone in zone_threats:
-#         outfile.write(zone + ':\n')
-#         for threat in zone_threats[zone]:
-#             outfile.write('\t' + threat_dict[threat] + ': ' + str(zone_threats[zone][threat]) + '\n')
-#
-# # Calculting number of species per threat in each taxon
-# taxa_threats = {}
-# for taxa_key in taxa:
-#     taxa_threats[taxa_key] = {}
-#     for threat_key in threats:
-#         taxa_threats[taxa_key][threat_key] = 0
-#         for species in taxa[taxa_key]:
-#             if species in threats[threat_key]:
-#                 taxa_threats[taxa_key][threat_key] = taxa_threats[taxa_key][threat_key] + 1
-# with open("taxa_threats.txt", mode='w+') as outfile:
-#     for taxa_key in taxa_threats:
-#         outfile.write(taxa_key + ':\n')
-#         for threat in taxa_threats[taxa_key]:
-#             outfile.write('\t' + threat_dict[threat] + ': ' + str(taxa_threats[taxa_key][threat]) + '\n')
-#
-# # Calculating average number of links per spieces per zone
-# zone_mean_links = {}
-# for zone in zone_taxa:
-#     zone_mean_links[zone] = 0
-#     for species in zone_taxa[zone]:
-#         for threat in threats:
-#             if species in threats[threat]:
-#                 zone_mean_links[zone] = zone_mean_links[zone] + 1
-#     zone_mean_links[zone] = zone_mean_links[zone] / float(len(zone_taxa[zone]))
-# with open("zone_mean_links.txt", mode='w+') as outfile:
-#     for zone in zone_mean_links:
-#         outfile.write(zone + ' mean links: ' + str(zone_mean_links[zone]) + '\n')
-#
-# # Calculating average number of links per spieces per taxon
-# taxa_mean_links = {}
-# for taxa_key in taxa:
-#     taxa_mean_links[taxa_key] = 0
-#     for species in taxa[taxa_key]:
-#         for threat in threats:
-#             if species in threats[threat]:
-#                 taxa_mean_links[taxa_key] = taxa_mean_links[taxa_key] + 1
-#     taxa_mean_links[taxa_key] = taxa_mean_links[taxa_key] / float(len(taxa[taxa_key]))
-# with open("taxa_mean_links.txt", mode='w+') as outfile:
-#     for taxa_key in taxa_mean_links:
-#         outfile.write(taxa_key + ' mean links: ' + str(taxa_mean_links[taxa_key]) + '\n')
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #
 #
 #
