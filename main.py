@@ -53,6 +53,7 @@ zone_taxa = c.defaultdict(set)
 region_list = ["EastCentral", "Northeastern", "Northwestern", "Southeastern", "Southwestern", "WesternCentral"]
 region_threat_dict = dict()
 region_species_dict = dict()
+threats_overall = c.defaultdict(set)
 data_folder = "Data"
 # looping through each region
 for region in region_list:
@@ -74,6 +75,7 @@ for region in region_list:
             my_code = m.group(1)
             threats[my_code].add(row["scientificName"])
             species_set.add(row["scientificName"])
+            threats_overall[my_code].add(row["scientificName"])
             species_links[row["scientificName"]] = species_links[row["scientificName"]]+1
     region_threat_dict[region] = threats
     region_species_dict[region] = species_set
@@ -111,6 +113,13 @@ for region in region_list:
     threat_counts_df = pd.DataFrame(list(zip(threats_list, species_countlist)),
                                     columns=['Threat', 'Species Count'])
     threat_counts_df.to_csv(os.path.join(region_data_folder, "threat_counts.csv"))
+
+threat_count_pairs = [(x[0], len(x[1])) for x in threats_overall.items()]
+threats_list = [threat_dict[x[0]] for x in threat_count_pairs]
+species_countlist = [x[1] for x in threat_count_pairs]
+threat_counts_df = pd.DataFrame(list(zip(threats_list, species_countlist)),
+                                    columns=['Threat', 'Species Count'])
+threat_counts_df.to_csv(os.path.join(data_folder, "threat_counts.csv"))
 
 g = igraph.Graph()
 for region in region_list:
