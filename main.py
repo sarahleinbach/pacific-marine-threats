@@ -89,6 +89,7 @@ for region in region_list:
             outfile.write(', '.join(threats[key]) + '\n\n')
 
     # tabulating number of species threatened in each country and by each threat in each country
+    country_threat_dict = c.defaultdict(c.Counter)
     with open(os.path.join(region_data_folder, "countries.csv"), mode='r') as csv_file:
         csv_reader = csv.DictReader(csv_file)
         line_count = 0
@@ -98,6 +99,12 @@ for region in region_list:
                 line_count += 1
             line_count += 1
             countries[row["name"]].add(row["scientificName"])
+            for threat in region_threat_dict[region]:
+                if row["scientificName"] in region_threat_dict[region][threat]:
+                    country_threat_dict[threat][row["name"]] = country_threat_dict[threat][row["name"]] + 1
+    for threat in country_threat_dict:
+        country_threat_df = pd.DataFrame.from_dict(country_threat_dict[threat], orient='index', columns=['Species count'])
+        country_threat_df.to_csv(os.path.join(region_data_folder, f"{threat.replace('.' , '_')}_countries.csv"))
     country_species_pairs = [(x[0], len(x[1])) for x in countries.items()]
     country_list = [x[0] for x in country_species_pairs]
     species_countlist = [x[1] for x in country_species_pairs]
@@ -113,6 +120,13 @@ for region in region_list:
     threat_counts_df = pd.DataFrame(list(zip(threats_list, species_countlist)),
                                     columns=['Threat', 'Species Count'])
     threat_counts_df.to_csv(os.path.join(region_data_folder, "threat_counts.csv"))
+
+    taxa_df = pd.read_csv(os.path.join(region_data_folder, "taxonomy.csv"))
+    taxa_count = c.Counter()
+    for row in taxa_df.iterrows():
+        taxa_count[row[1]['phylumName']] = taxa_count[row[1]['phylumName']] + 1
+    taxa_count_df = pd.DataFrame.from_dict(taxa_count, orient='index', columns=['Species Count']).reset_index()
+    taxa_count_df.to_csv(os.path.join(region_data_folder, "taxa_counts.csv"))
 
 threat_count_pairs = [(x[0], len(x[1])) for x in threats_overall.items()]
 threats_list = [threat_dict[x[0]] for x in threat_count_pairs]

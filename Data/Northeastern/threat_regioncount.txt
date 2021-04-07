@@ -1,7 +1,7 @@
 number of species: 2 
 Threats:
 fishing and harvesting aquatic resources: ( 2 species) (weight:1.0)
-Pycnopodia helianthoides, Actinopyga mauritiana
+Actinopyga mauritiana, Pycnopodia helianthoides
 
 temperature extremes: ( 1 species) (weight:0.5)
 Pycnopodia helianthoides
